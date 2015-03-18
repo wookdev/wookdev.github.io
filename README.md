@@ -6,8 +6,8 @@ to think about, about portability and accessibility.
 
 I'm new to version control, and am almost an actual programmer.  I once knew a couple
 of dead languages (COBOL, Pascal, Fortan, Basic) from back when VAX/VMS was still
-a thing. Mostly what I know of them any more is that I no longer can be functional
-in any of them without a lot of amount of lead time.
+a thing. Mostly what I know of them any more is that I can no longer can be functional
+in any of them without a lot of lead time.
 
 I'm doing this project in GitHub partly to learn.  All help accepted, but I'll be happy if
 this repo and associated site are only ever seen by me.
