@@ -1,14 +1,26 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Munged.Org
+email:
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Where Wook waxes loquatious
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://wookdev.github.io" # the base hostname & protocol for your site
+twitter_username: 
+github_username:  
 
 # Build settings
 markdown: kramdown
+
+# Outputting
+permalink:     pretty
+paginate:      12
+paginate_path: /page:num
+timezone:      "America/New_York"
+
+# Page/Post Defaults
+defaults:
+  -
+    scope:
+      path: "_posts"
+    values:
+      author: Wook
