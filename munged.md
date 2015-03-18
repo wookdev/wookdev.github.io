@@ -2,6 +2,7 @@
 layout: default
 title: Munged
 permalink: /munged/
+nav: Munged
 ---
 
 Munge: /muhnj/, vt.
@@ -23,7 +24,6 @@ an archaic verb meaning “to wipe (a person's nose)”.
 
 from [The Jargon File, v4.4.8][]
 
-***
 
 [mumble]:       http://catb.org/%7Eesr/jargon/html/M/mumble.html
 [spamblock]:    http://catb.org/%7Eesr/jargon/html/S/spamblock.html
