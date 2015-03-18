@@ -174,7 +174,7 @@
     list-style: none;
 
     > li {
-        margin-bottom: $spacing-unit;
+        margin-bottom: $spacing-unit 1;
     }
 }
 
@@ -184,8 +184,8 @@
 }
 
 .post-link {
-    display: block;
-    font-size: 24px;
+    display: inline;
+    font-size: 18px;
 }
 
 
@@ -208,29 +208,38 @@
 }
 
 .post-content {
-    margin-bottom: $spacing-unit;
+    margin-bottom: $spacing-unit * 2;
 
-    h2 {
-        font-size: 32px;
+    h1 {
+        font-size: 28px;
 
         @include media-query($on-laptop) {
-            font-size: 28px;
+            font-size: 24px;
+        }
+    }
+
+    h2 {
+        font-size: 24px;
+
+        @include media-query($on-laptop) {
+            font-size: 18px;
         }
     }
 
     h3 {
-        font-size: 26px;
+        font-size: 18px;
 
         @include media-query($on-laptop) {
-            font-size: 22px;
+            font-size: 16px;
         }
     }
 
     h4 {
-        font-size: 20px;
+        font-size: 16px;
+        
 
         @include media-query($on-laptop) {
-            font-size: 18px;
+            font-size: 16px;
         }
     }
 }
