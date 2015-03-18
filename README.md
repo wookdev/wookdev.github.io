@@ -1,14 +1,16 @@
 # Munged.Org Source for GitHub Pages Site
 
 Currently the site is hosted at Squarespace, but I'm not entirely happy with it.
-Hosting my site on GitHub has some interesting implications that I find interesting
+Hosting my site on GitHub has some implications that I find interesting
 to think about, about portability and accessibility.
 
 I'm new to version control, and am almost an actual programmer.  I once knew a couple
 of dead languages (COBOL, Pascal, Fortan, Basic) from back when VAX/VMS was still
-a thing.
+a thing.  The university I went to started teaching C the year after I left.
+Mostly what I know of them any more is that I no longer can be functional
+in any of them without a fair amount of lead time.
 
-So be nice here.  I'm doing this to learn.  All help accepted, but I'll be happy if
+I'm doing this project in GitHub partly to learn.  All help accepted, but I'll be happy if
 this repo and associated site are only ever seen by me.
 
 Credit to [Joanna Rutkowska](http://blog.invisiblethings.org/) for this.
