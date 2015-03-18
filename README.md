@@ -5,7 +5,7 @@ Hosting my site on GitHub has some implications that I find interesting
 to think about, about portability and accessibility.
 
 I'm new to version control, and am almost an actual programmer.  I once knew a couple
-of dead languages (COBOL, Pascal, Fortan, Basic) from back when VAX/VMS was still
+of dead languages (COBOL, Pascal, Fortan, etc) from back when VAX/VMS was still
 a thing. Mostly what I know of them any more is that I can no longer can be functional
 in any of them without a lot of lead time.
 
