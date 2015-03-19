@@ -8,11 +8,10 @@ title: Munged.Org
   <ul class="post-list">
     {% for post in paginator.posts %}
     <header class="post-header">
-        <h1 class="post-title">{{ post.title }}</h1>
-        <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}
-          {% if post.author %} • by {{ post.author }}{% endif %}
-          {% if post.meta %} • {{ post.meta }}{% endif %}<br />
-          {% if post.tags != empty %}Tagged: {{ post.tags | sort | array_to_sentence_string }}{% endif %}
+        <h1 class="post-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
+        <p class="post-meta">Posted {% if post.author %} by {{ post.author }}{% endif %}
+          on {{ post.date | date: "%b %-d, %Y" }}<br />
+          {% if post.tags != empty %}Tags: {{ post.tags | sort | array_to_sentence_string }}{% endif %}
         </p>
     </header>
 
