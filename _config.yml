@@ -1,0 +1,26 @@
+# Site settings
+title: Munged.Org
+email:
+description: > # this means to ignore newlines until "baseurl:"
+  Where Wook waxes loquatious
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://wookdev.github.io" # the base hostname & protocol for your site
+twitter_username: 
+github_username:  
+
+# Build settings
+markdown: kramdown
+
+# Outputting
+permalink:     pretty
+paginate:      12
+paginate_path: /page:num
+timezone:      "America/New_York"
+
+# Page/Post Defaults
+defaults:
+  -
+    scope:
+      path: "_posts"
+    values:
+      author: Wook
