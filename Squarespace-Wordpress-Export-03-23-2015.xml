@@ -1,0 +1,861 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <channel>
+    <title>Munged</title>
+    <link>http://www.munged.org</link>
+    <pubDate>Fri, 18 Apr 2014 02:57:38 +0000</pubDate>
+    <description>Where Wook Waxes Loquatious</description>
+    <language>en-US</language>
+    <wp:wxr_version>1.2</wp:wxr_version>
+    <wp:author>
+      <wp:author_id>949920922</wp:author_id>
+      <wp:author_login>squarespace@munged.org</wp:author_login>
+      <wp:author_email>squarespace@munged.org</wp:author_email>
+      <wp:author_display_name><![CDATA[Wook]]></wp:author_display_name>
+      <wp:author_first_name><![CDATA[Steve]]></wp:author_first_name>
+      <wp:author_last_name><![CDATA[Houle]]></wp:author_last_name>
+    </wp:author>
+    <wp:category>
+      <wp:cat_name><![CDATA[null - null]]></wp:cat_name>
+      <wp:category_nicename>null-null</wp:category_nicename>
+      <wp:category_parent />
+    </wp:category>
+    <item>
+      <title>Photos</title>
+      <link>/photos/</link>
+      <pubDate>Fri, 25 Apr 2014 04:48:03 +0000</pubDate>
+      <content:encoded><![CDATA[<div><img src="http://static1.squarespace.com/static/535094a2e4b0bf8f5524e59a/5359e903e4b09312a904b422/5359e928e4b031f220f6a468/1398401329194/IMG_0502.jpg" /><img src="http://static1.squarespace.com/static/535094a2e4b0bf8f5524e59a/5359e903e4b09312a904b422/5359e922e4b031f220f6a446/1398401317100/DSC_1965.jpg" /></div>]]></content:encoded>
+      <wp:post_name>photos</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>0</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/535094a2e4b0bf8f5524e59a/5359e903e4b09312a904b422/5359e928e4b031f220f6a468/1398401329194/IMG_0502.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/535094a2e4b0bf8f5524e59a/5359e903e4b09312a904b422/5359e928e4b031f220f6a468/1398401329194/IMG_0502.jpg</link>
+      <title>attachment-5359e928e4b031f220f6a468</title>
+      <wp:post_name>IMG-0502-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>1</wp:post_id>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5359e928e4b031f220f6a468]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5359e928e4b031f220f6a468]]></excerpt:encoded>
+      <pubDate>Fri, 25 Apr 2014 04:48:40 +0000</pubDate>
+      <wp:post_date>2014-04-25 04:48:40</wp:post_date>
+      <wp:post_date_gmt>2014-04-25 04:48:40</wp:post_date_gmt>
+      <dc:creator>squarespace@munged.org</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/535094a2e4b0bf8f5524e59a/5359e903e4b09312a904b422/5359e922e4b031f220f6a446/1398401317100/DSC_1965.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/535094a2e4b0bf8f5524e59a/5359e903e4b09312a904b422/5359e922e4b031f220f6a446/1398401317100/DSC_1965.jpg</link>
+      <title>attachment-5359e922e4b031f220f6a446</title>
+      <wp:post_name>DSC-1965-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>2</wp:post_id>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5359e922e4b031f220f6a446]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5359e922e4b031f220f6a446]]></excerpt:encoded>
+      <pubDate>Fri, 25 Apr 2014 04:48:34 +0000</pubDate>
+      <wp:post_date>2014-04-25 04:48:34</wp:post_date>
+      <wp:post_date_gmt>2014-04-25 04:48:34</wp:post_date_gmt>
+      <dc:creator>squarespace@munged.org</dc:creator>
+    </item>
+    <item>
+      <link>/munged/</link>
+      <title>Munged</title>
+      <pubDate>Sat, 14 Mar 2015 02:08:05 +0000</pubDate>
+      <content:encoded><![CDATA[<h1><strong>Munge</strong>: <span>/muhnj/</span>, <span>vt.</span></h1><ol><li>[derogatory] To imperfectly transform information.</li><li>A comprehensive rewrite of a routine, data structure or the whole program.</li><li>To modify data in some way the speaker doesn't need to go into right now or cannot describe succinctly (compare <a data-cke-saved-href="http://catb.org/%7Eesr/jargon/html/M/mumble.html" href="http://catb.org/%7Eesr/jargon/html/M/mumble.html"><em>mumble</em></a>).</li><li>To add <a data-cke-saved-href="http://catb.org/%7Eesr/jargon/html/S/spamblock.html" href="http://catb.org/%7Eesr/jargon/html/S/spamblock.html"><em>spamblock</em></a> to an email address.</li></ol><p>This term is often confused with <a data-cke-saved-href="http://catb.org/%7Eesr/jargon/html/M/mung.html" href="http://catb.org/%7Eesr/jargon/html/M/mung.html"><em>mung</em></a>, which probably was derived from it. However, it also appears the word <span>munge</span> was in common use in Scotland in the 1940s, and in Yorkshire in the 1950s, as a verb, meaning to munch up into a masticated mess, and as a noun, meaning the result of munging something up (the parallel with the <a data-cke-saved-href="http://catb.org/%7Eesr/jargon/html/K/kluge.html" href="http://catb.org/%7Eesr/jargon/html/K/kluge.html"><em>kluge</em></a>/<a data-cke-saved-href="http://catb.org/%7Eesr/jargon/html/K/kludge.html" href="http://catb.org/%7Eesr/jargon/html/K/kludge.html"><em>kludge</em></a> pair is amusing). The OED reports “<span>munge</span>” as an archaic verb meaning “<span>to wipe (a person's nose)</span>”.</p><p>from <a data-cke-saved-href="http://catb.org/~esr/jargon/" href="http://catb.org/~esr/jargon/">The Jargon File, v4.4.8</a></p><hr />]]></content:encoded>
+      <wp:post_name>munged</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>3</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <title>Getty Images</title>
+      <link>/ymmv/null</link>
+      <content:encoded><![CDATA[<p>I post</p>]]></content:encoded>
+      <excerpt:encoded />
+      <wp:post_name />
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>4</wp:post_id>
+      <wp:status>draft</wp:status>
+      <pubDate>Sun, 27 Apr 2014 19:13:40 +0000</pubDate>
+      <wp:post_date>2014-04-27 19:13:40</wp:post_date>
+      <wp:post_date_gmt>2014-04-27 19:13:40</wp:post_date_gmt>
+      <dc:creator>squarespace@munged.org</dc:creator>
+      <wp:comment_status>open</wp:comment_status>
+    </item>
+    <item>
+      <title>Going Native or Going Somewhere Else</title>
+      <link>/ymmv/2015/3/13/going-native-or-going-somewhere-else</link>
+      <content:encoded><![CDATA[<p>My Squarespace subscription is up towards the end of April.&nbsp; So I'm playing around with it to see if I want to stick around here.&nbsp; The new template is called "Native".&nbsp; It is cleaner than the old "Bedford" template, but still obviously way more focused on the visuals than I feel Munged.Org needs to be.&nbsp; Pictures can go up over on <a href="http://www.wookphoto.com">WookPhoto</a>.</p><p>Some things that Squarespace made easy: The <a href="http://www.munged.org/ymmv/2014/5/8/demicon-25-photos">gallery of DC25 photos</a> was pretty easy to put up and looked good. Adding any pictures has been pretty easy, and includes basic photo editing controls to make them look like I want. Easy integration to YouTube and Vimeo videos for the Phantom.&nbsp; But it isn't perfect. The link tool will show some of the content of this site to link to, but not blog pages.&nbsp; I had to save this as draft, go find the link to the DC25 gallery, then edit this file again to paste it in. Hope it works the way I formatting the link. <strong>Edit:</strong> Nope!</p><p>Where else would I go?</p><p>I'm <a href="http://wookdev.github.io/">currently testing</a> moving the site over to <a href="https://pages.github.com">GitHub Pages</a>.&nbsp; It also has some interesting implications about security and accessibility that may be considered "features", or not. For one thing, because I'm not paying for Github, <a href="https://github.com/wookdev/wookdev.github.io">the source of the site is in a public repository</a>. Everything is visible: page templates and formatting code, plus the content source.</p><p>This means that all y'all could clone the repo, fix things, and send me pull requests to include your fixes on my site. What would you change?&nbsp; Spelling. Formatting. Site changes. Fact checking. Adding interesting links. Whatever you are willing to spend the time to do to make the site better. It is my option to include any changes, but it is an interesting idea.</p><p>There's also an issue tracker I'm using to remind myself of things I want to do, and a wiki that can be used for off-site collaboration. The wiki is intended for documentation, and I have to admit the idea of my blog having "documentation" amuses me.</p><p>The downside is that it isn't really easier than Squarespace. The repository has to be cloned to my computers, and edited locally.&nbsp; Changes are version controlled, which is nice, but live locally until synced with the main repo on GitHub.&nbsp; If I forget to sync, I could take the laptop and not have the most recent changes that live on the desk machine.</p><p>I'm using GitHub and git, for the first time, so still kind of feeling my way along. I <a href="https://www.gnupg.org/">GPG</a> signed a tag (version release) last night at a completely inappropriate spot in the development of the site for example.&nbsp; Tho really, that was just to see what it looked like. I might, once I get everything the way I want it, blow away the repo and re-create it from files saved locally.</p><p>If I move over there, I'll make sure to import all the posts from here as well.&nbsp; There aren't that many posts here, it will be easy.&nbsp; I might, if I end up with the energy and interest, import the really old site from the Moveable Type days.&nbsp; Sadly, the WordPress site is gone.&nbsp; But there wasn't much there anyway.</p><p>It is very interesting, but will kind of be a lot of work for nothing if I stay here. Them's the breaks, I guess. Or maybe I'll give <a href="http://textpattern.com/">Textpattern</a> a try again.</p>]]></content:encoded>
+      <excerpt:encoded />
+      <wp:post_name>2015/3/13/going-native-or-going-somewhere-else</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>5</wp:post_id>
+      <wp:status>publish</wp:status>
+      <pubDate>Sat, 14 Mar 2015 03:24:46 +0000</pubDate>
+      <wp:post_date>2015-03-14 03:24:46</wp:post_date>
+      <wp:post_date_gmt>2015-03-14 03:24:46</wp:post_date_gmt>
+      <dc:creator>squarespace@munged.org</dc:creator>
+      <wp:comment_status>open</wp:comment_status>
+    </item>
+    <item>
+      <title>New iPhone and iPad</title>
+      <link>/ymmv/2014/12/14/new-iphone-and-ipad</link>
+      <content:encoded><![CDATA[<p>The plan is to get upgraded to current iPhone, and iPad.&nbsp; I have a new iPhone 6, 128 Gig on Verizon.&nbsp; Those phones are hard to find out in the wild, but for assorted reasons I couldn't order it from the Apple Web Store.&nbsp; I found one in Albuquerque last week.&nbsp; I did order an engraved iPad Air 2 from the Apple Web Store, and it was waiting for me when I got home yesterday.</p><p>I just need to get Ally an iPhone, and then the current upgrade cycle is complete. I should actually be able to get her phone thru the Web Store.</p><p>Ally was already on Verizon, and I have switched to it.&nbsp; I have mixed feelings about this. It is really nice to be able to use my personal phone in my house. AT&amp;T didn't serve this area very well, and I had a lot of dropped calls.&nbsp; My work mobile phone is on Verizon, because I had this same problem in DUMBO before I moved to the woods of Carrboro.</p><p>Verizon has good coverage, and they use CDMA, so the call quality will be good.&nbsp; But they are just evil incarnate.&nbsp; I switched from Sprint to Verizon back in the day, so I could get a Motorola Razer flip phone. It would access the internet, and I even tried it once.&nbsp; There was a "landing page" that indicated if you proceeded, you'd be using the internet and would be charged for it.&nbsp; What that landing page didn't say was that it itself was on the internet, and you were already being charged for using it.&nbsp; This sleazy move got Verizon slapped with a lawsuit, which they lost.</p><p>So.&nbsp; The ability to use my phone from home if I so choose.&nbsp; Or not supporting evil asshole corporations.&nbsp; Kind of an ugly choice.</p><p>After a few years of shitty "service" on AT&amp;T's part, I am done. I am on Verizon. I could have gone with Sprint, but I had an iPad Air 2 that I returned, and had it on Sprint for a while, and didn't have good coverage from home with them either.</p><p>I still feel queasy about this choice tho.</p>]]></content:encoded>
+      <excerpt:encoded />
+      <wp:post_name>2014/12/14/new-iphone-and-ipad</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>6</wp:post_id>
+      <wp:status>publish</wp:status>
+      <pubDate>Mon, 15 Dec 2014 03:45:45 +0000</pubDate>
+      <wp:post_date>2014-12-15 03:45:45</wp:post_date>
+      <wp:post_date_gmt>2014-12-15 03:45:45</wp:post_date_gmt>
+      <dc:creator>squarespace@munged.org</dc:creator>
+      <wp:comment_status>closed</wp:comment_status>
+    </item>
+    <item>
+      <title>Categories</title>
+      <link>/ymmv/2014/11/4/categories</link>
+      <content:encoded><![CDATA[<p>I can assign categories to posts.&nbsp; Problem is, I'd rather have one set of categories, and use them forever more, with the occational addition as new things come up.</p><p>Or, I'd rather have a small set where each is broad enough that I won't ever need any new ones.</p><p>Or....</p><p>Sigh.&nbsp; Crap.</p><p>There are like 4 posts on this blog, and already I am running into things that should only bother me when I realize I have 200+ posts in the category "Opinion" and another couple hundred in "Pontification".&nbsp; Both categories being the same thing in my mind.</p><p>This is partially a case of having a feature and being determined to use it no matter how useful it is.&nbsp; As a tech support goon, I see the CONSTANTLY in other people.&nbsp; You'd think after seeing the evil it causes, I'd be imune.&nbsp; But I like my toys too, which is basically what a feature is.</p><p>So, ideas.</p><ul dir="ltr"><li>"Show", "Tell"</li><li>"YMMV", "IANAL", "ROFL", "OMW", "IIRC", etc</li><li>"&lt;A&gt;", "&lt;BLOCKQUOTE&gt;", "&lt;LI&gt;", etc</li><li>"Car", "Life", "Event", "Opinion", "Site"</li></ul><p>Right now, as I write this, I'm leaning towards the internet slang abreviations.&nbsp; Damn <a target="_blank" href="http://www.brettglass.com/">Brett Glass</a> for taking <a target="_blank" href="http://www.ymmv.com/">ymmv.com</a> back in the 90's and not updating the content on it in over 16 years.&nbsp; That's just mean.</p>]]></content:encoded>
+      <excerpt:encoded />
+      <wp:post_name>2014/11/4/categories</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>7</wp:post_id>
+      <wp:status>publish</wp:status>
+      <pubDate>Tue, 04 Nov 2014 23:00:20 +0000</pubDate>
+      <wp:post_date>2014-11-04 23:00:20</wp:post_date>
+      <wp:post_date_gmt>2014-11-04 23:00:20</wp:post_date_gmt>
+      <dc:creator>squarespace@munged.org</dc:creator>
+      <wp:comment_status>closed</wp:comment_status>
+    </item>
+    <item>
+      <title>Disqus</title>
+      <link>/ymmv/2014/11/3/disqus</link>
+      <content:encoded><![CDATA[<p>I'm trying out the Disqus comment platform, since SquareSpace integrates with it natively.&nbsp; Leave a comment, so we can see how it works.</p><p><strong>Update:</strong> No, we're not. Doesn't seem to work very well, and seemed kinda complicated when it does work, so we'll just go with the default Squarespace comment system.</p>]]></content:encoded>
+      <excerpt:encoded />
+      <wp:post_name>2014/11/3/disqus</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>8</wp:post_id>
+      <wp:status>publish</wp:status>
+      <pubDate>Mon, 03 Nov 2014 16:15:29 +0000</pubDate>
+      <wp:post_date>2014-11-03 16:15:29</wp:post_date>
+      <wp:post_date_gmt>2014-11-03 16:15:29</wp:post_date_gmt>
+      <category domain="post_tag" nicename="comments"><![CDATA[comments]]></category>
+      <category domain="post_tag" nicename="disqus"><![CDATA[Disqus]]></category>
+      <dc:creator>squarespace@munged.org</dc:creator>
+      <wp:comment_status>closed</wp:comment_status>
+    </item>
+    <item>
+      <title>New Tires for Wook 1 - Sort of a Review</title>
+      <link>/ymmv/2014/11/2/new-tires-for-wook-1-sort-of-a-review</link>
+      <content:encoded><![CDATA[<p>A couple of week ago I bought new tires for Wook 1, to replace the Cooper Zeons it had.&nbsp; I got Michelin PilotSport A/S 3s.&nbsp; It is coming up on winter, and there will be at least one trip up North during a period of time where there could be snow on the ground.&nbsp; So, all season tires.&nbsp; I drove around Des Moines for years in cars with half-bald normal tires with no problems. Full-on winter tires just don't seem required.</p><p>That's not because Wook 1 is 4WD, because that's not the reason.&nbsp; 4WD helps you go, but tires make you stop.&nbsp; It is just that I've never driven a car that had snow tires on it, even when I lived where it would have made sense to do so.&nbsp; If you are careful, which I am, it isn't a big deal.</p><p>When you go on <a target="_blank" href="http://www.tirerack.com">Tirerack.com</a>, there is no <a href="http://www.tirerack.com/tires/TireSearchResults.jsp?tireIndex=1&amp;autoMake=Audi&amp;autoYear=2012&amp;autoModel=A5+Coupe+2.0T&amp;autoModClar=Premium+Plus&amp;width=255%2F&amp;ratio=35&amp;diameter=19&amp;sortCode=57430&amp;skipOver=true&amp;minSpeedRating=H&amp;minLoadRating=S&amp;tab=OE&amp;filterType=oe">"normal tire" in the 255/35ZR19 size Wook 1 likes</a>.&nbsp; You either get some kind of summer performance, winter performance, ultimate performance all-season, or <a target="_blank" href="http://www.tirerack.com/tires/tires.jsp?tireMake=Michelin&amp;tireModel=Pilot+Sport+Cup+2&amp;partnum=535YR9PSC2XL&amp;vehicleSearch=true&amp;fromCompare1=yes&amp;autoMake=Audi&amp;autoYear=2012&amp;autoModel=A5%20Coupe%202.0T&amp;autoModClar=Premium%20Plus">even more aggressive type descriptions</a>.&nbsp; So I went with the "Ultra High Performance All-Season" category, and got the PS A/S set.</p><p>Summer max performance tires, like the PS3s or P Zeros, are Right Out.&nbsp; At least right now before winter.&nbsp; I know this from when I first bought the car, and it has Pirelli P Zero Rosso max performance summer tires.&nbsp; I was in Des Moines, it snowed, and I did a full-speed power slide thru a busy intersection.&nbsp; Sideways.&nbsp; Next morning I took it out to McDonalds and it was like trying to drive and stop a toboggan on a steep hill.&nbsp; Next day, it had the Cooper A/S tires on it, and it was very sure footed.</p><p>But I hated the Zeon's.&nbsp; They were loud.&nbsp; They had a weird road noise that inside the car often sounded like metallic grinding.&nbsp; This had me really worried until I figured out what was going on.&nbsp; When they sat for a day or two, they would get a flat spot and would be bumpy on smooth roads for the first 10 miles or so.&nbsp; That was added to the fact that their ride was just rougher than the Pirelli's to start with.&nbsp; In their favor, the Zeon's did have really nice traction on ice and snow.&nbsp; That, they did do well.</p><p>I had to replace them tho.&nbsp; I hit a granite curb in a parking lot, and not only dinged up the rim, but took a chunk out of the sidewall of the tire too.&nbsp; That damaged tire was on borrowed time from then on.&nbsp; I am astounded that it lasted another 800 miles until I could replace it.&nbsp; But that was reason enough to replace that one, and I replaced all 4 all the way around.</p><p>So far, the Michelin PS A/S tires are nice.&nbsp; They are quieter, in my experience, tho not as quiet as the Pirelli's were.&nbsp; They ride nicer on all surfaces.&nbsp; The only real complaint so far is that they seem to be overly squirrelly on grooved highway surfaces.&nbsp; Even the lightest grooves seem to bring this out in them.&nbsp; Ally noticed it from the passenger seat.&nbsp; I'm hoping that a thousand miles or two will even them out a little. The original Pirelli tires <a target="_blank" href="http://www.tirerack.com/tires/tiretech/techpage.jsp?techid=47">tramlined</a> really badly for the first 2000 or so miles, but then settled down.&nbsp; Hopefully the Michelins will settle down after a while too.</p><p>I'll want to get max performance summer tires back on the car at some point.&nbsp; That's really when it is a complete pleasure to drive.&nbsp; My plan has always been to buy a second set of rims with the "other" tires on them, so I can jack the car up in the driveway and change them out for the season change.&nbsp; But that hasn't happened yet.&nbsp; Maybe someday soon.</p>]]></content:encoded>
+      <excerpt:encoded />
+      <wp:post_name>2014/11/2/new-tires-for-wook-1-sort-of-a-review</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>9</wp:post_id>
+      <wp:status>publish</wp:status>
+      <pubDate>Mon, 03 Nov 2014 06:02:31 +0000</pubDate>
+      <wp:post_date>2014-11-03 06:02:31</wp:post_date>
+      <wp:post_date_gmt>2014-11-03 06:02:31</wp:post_date_gmt>
+      <category domain="post_tag" nicename="tires"><![CDATA[tires]]></category>
+      <category domain="post_tag" nicename="wook-1"><![CDATA[WOOK 1]]></category>
+      <category domain="post_tag" nicename="car"><![CDATA[car]]></category>
+      <dc:creator>squarespace@munged.org</dc:creator>
+      <wp:comment_status>closed</wp:comment_status>
+    </item>
+    <item>
+      <title>Can I Borrow A Cat</title>
+      <link>/ymmv/2014/10/31/can-i-borrow-a-cat</link>
+      <content:encoded><![CDATA[<p>Today, I was thinking "I should tape bacon to a cat."&nbsp; I know, I know, <a target="_blank" href="http://whatever.scalzi.com/2006/09/13/clearly-you-people-thought-i-was-kidding/">it's been done</a>. But sometimes, you have to do the things you have to do.</p><p>But I don't own a cat, and Ally won't let me tape bacon to one of hers.&nbsp; So I guess I'll have to mark today down as a failure.</p>]]></content:encoded>
+      <excerpt:encoded />
+      <wp:post_name>2014/10/31/can-i-borrow-a-cat</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>10</wp:post_id>
+      <wp:status>publish</wp:status>
+      <pubDate>Fri, 31 Oct 2014 15:19:44 +0000</pubDate>
+      <wp:post_date>2014-10-31 15:19:44</wp:post_date>
+      <wp:post_date_gmt>2014-10-31 15:19:44</wp:post_date_gmt>
+      <category domain="post_tag" nicename="bacon"><![CDATA[bacon]]></category>
+      <category domain="post_tag" nicename="cats"><![CDATA[cats]]></category>
+      <category domain="post_tag" nicename="bacongate"><![CDATA[bacongate]]></category>
+      <dc:creator>squarespace@munged.org</dc:creator>
+      <wp:comment_status>closed</wp:comment_status>
+    </item>
+    <item>
+      <title>The Failure That Is Targeted Advertising</title>
+      <link>/ymmv/2014/10/7/ads</link>
+      <content:encoded><![CDATA[<p>Check out this piece: <a href="http://www.computerworld.com/article/2690822/security0/why-do-contextual-ads-fail.html">Why Do Contextual Ads Fail?</a></p><p>My first thought at looking at the title of this, was "who's still browsing the internet without an ad-blocker?" (Ad blocking software is another topic for another article here.&nbsp; Someday I'll write it.)</p><p>I've always wondered why ads supposedly targeted at my interests and needs never try to sell me something I'm interested in or need.</p><p>Based on my experience using Facebook without ad blocking software for a while, I have to assume they think every single guy in existence needs a membership to a dating site. I didn't at the time. Those ads went away instantly when I removed my relationship status.</p><p>The best story I heard about targeted ads was when <a target="_blank" href="http://Just Arkansas. Come down to Arkansas.">Bobcat Goldthwait said</a> on <a target="_blank" href="http://www.npr.org/">NPR</a>'s "<a target="_blank" href="http://www.npr.org/programs/wait-wait-dont-tell-me/">Wait Wait, Don't Tell Me</a>":</p><blockquote>I was writing a script that had a lot of guns in it and I spent a lot of time looking at guns online. And eventually, I'm not kidding, ads for Arkansas came up.</blockquote><p>This is either the biggest fail I know of, or somehow the biggest success.&nbsp; I can't decide which.</p><p>Back to the article tho, one thing that caught my attention was the following:</p><blockquote><p>"You're the product." I'll admit that I've used that line myself. But I've come to believe that it's pretty clearly a misleading and unsophisticated view.</p>With contextual advertising, you're not the product. Advertisers don't own you. They usually don't even get to know who you are. The companies selling the advertising theoretically (and algorithmically) display ads to you if you meet the advertiser's criteria.</blockquote><p>I don't buy the idea that we're not the product social networks sell. They aren't selling information they have on us, they are selling access. Just because my info is anonymous, doesn't mean the social network could exist without that info.&nbsp; Which still makes us the product.</p><p> </p>]]></content:encoded>
+      <excerpt:encoded />
+      <wp:post_name>2014/10/7/ads</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>11</wp:post_id>
+      <wp:status>publish</wp:status>
+      <pubDate>Fri, 31 Oct 2014 05:34:17 +0000</pubDate>
+      <wp:post_date>2014-10-31 05:34:17</wp:post_date>
+      <wp:post_date_gmt>2014-10-31 05:34:17</wp:post_date_gmt>
+      <category domain="post_tag" nicename="ads"><![CDATA[ads]]></category>
+      <category domain="post_tag" nicename="ad-blockers"><![CDATA[ad blockers]]></category>
+      <category domain="post_tag" nicename="targetted-ads"><![CDATA[targetted ads]]></category>
+      <category domain="post_tag" nicename="bobcat-goldthwait"><![CDATA[bobcat goldthwait]]></category>
+      <dc:creator>squarespace@munged.org</dc:creator>
+      <wp:comment_status>closed</wp:comment_status>
+    </item>
+    <item>
+      <title>Mirror Mystery</title>
+      <link>/ymmv/2014/10/31/mirror-mystery</link>
+      <content:encoded><![CDATA[<p>My car has power side mirrors, as most do these days.&nbsp; You set them with a control in the car, and when you use the driver memory function their position is recorded in the memory setting.</p><p>Another feature of some modern cars is that when you put the car in reverse, the passenger side mirror will move and point down at the side of the car, so that when parallel parking, you can see where you are in relation to the curb.</p><p>My car does this, but not all the time.&nbsp; In fact, it didn't do it for the first two years I owned it.&nbsp; Then one day, it did.&nbsp; And it did it for a few months, until it went in for service recently.&nbsp; Then it didn't.&nbsp; But today, it suddenly is doing it again.</p><p>I think I've figured it out.</p><p>Ally drove it last night, so of course she screwed up the seats and mirrors.&nbsp; When I drove it after that, I used the memory buttons to return everything to my settings.&nbsp; When I came home from lunch today I noticed the mirror pointed down again while I was backing into the driveway.</p><p>So yeah, I could probably read the manual to figure this out, but who reads anymore?&nbsp; Seriously.</p><p>I don't think the car can remember a random mirror position.&nbsp; So if the mirror isn't at a memory setting, it won't move down in reverse because it doesn't know where to move back to when it is done.</p><p>Kinda cheesy, really, for an expensive car.&nbsp; You'd think it could remember something like this.&nbsp; But I have to remember, while there is a lot about my car that is nice, it is still the lowest tier in the product linup.&nbsp; Or was when I bought it.&nbsp; Now the bottom Audi rung in the US is the <a target="_blank" href="http://www.audiusa.com/models/audi-a3-sedan">A3</a>.</p>]]></content:encoded>
+      <excerpt:encoded />
+      <wp:post_name>2014/10/31/mirror-mystery</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>12</wp:post_id>
+      <wp:status>publish</wp:status>
+      <pubDate>Fri, 31 Oct 2014 05:17:16 +0000</pubDate>
+      <wp:post_date>2014-10-31 05:17:16</wp:post_date>
+      <wp:post_date_gmt>2014-10-31 05:17:16</wp:post_date_gmt>
+      <category domain="post_tag" nicename="wook-1"><![CDATA[WOOK 1]]></category>
+      <category domain="post_tag" nicename="features"><![CDATA[features]]></category>
+      <category domain="post_tag" nicename="rtfm"><![CDATA[RTFM]]></category>
+      <dc:creator>squarespace@munged.org</dc:creator>
+      <wp:comment_status>closed</wp:comment_status>
+    </item>
+    <item>
+      <title>(First) Flight Of The Phantom</title>
+      <link>/ymmv/2014/9/14/first-flight-of-the-phantom</link>
+      <content:encoded><![CDATA[<p>Two months ago I bought a drone.&nbsp; More accurately, an Umannned Aerial Vehicle (UAV).&nbsp; In this case, it is a <a target="_blank" href="http://www.dji.com/product/phantom-2-vision-plus">DJI Phantom 2 Video+</a> <a target="_blank" href="http://en.wikipedia.org/wiki/Quadcopter">quadcopter</a>.&nbsp; This thing is about the size of a dinner plate without the propellers, it has a built-in camera on a stabilizing gimbal capable of 14 Megapixel stills, and 1080p/30 video.&nbsp; The stills come out in Adobe's DNG RAW format, which I thought was interesting.</p><p>The camera is good, tho not great by any stretch of the imagination.&nbsp; DJI sells a Phantom with a different gimbal designed to take a stand-alone GoPro camera.&nbsp; I didn't get that one, because I had questions about some of the details and the cost with the GoPro was higher by a few hundred.&nbsp; I was concerned about what it took to get the GoPro to work in a "first person video" (FPV) mode where you fly the 'copter by watching the video coming from it.&nbsp; I suspect that sooner or later, I will change the Vision+ camera and gimbal out for the GoPro version.</p><p>So anyway, last weekend I flew the thing for the first time.&nbsp; I have two batteries, each good for about 20 minutes of flight time, and I used them both up.&nbsp; I remembered to turn on the video for some of both of those flights.&nbsp; Over the last week, I managed to cut those videos into clips and put those clips into a movie.</p>
+ 
+   <iframe src="//www.youtube.com/embed/y6RTIipeFs0?wmode=opaque&amp;enablejsapi=1" scrolling="no" allowfullscreen="" frameborder="0" height="480" width="854">
+</iframe>
+ 
+<p>Everything about this video was a first: First flight of my first UAV.&nbsp; First attempts at using iMovie and Final Cut Pro.&nbsp; First time I've ever had a YouTube account, and first video uploaded to it.&nbsp; The results aren't great, but they certainly aren't something I could have gotten any other way.</p><p>Next time, I'll pay attention to the camera settings a little more.&nbsp; This time I just wanted to get it flying.&nbsp; I think there is a not-so-wide-angle setting, and I might see if I can lower the exposure, which bordered on overexposed at times.&nbsp; There is also some video distortion in the form of noise bands when the camera was facing towards the sun.&nbsp; There are reports that the camera is way better if you can get a 2x neutral density filter on it.&nbsp; That's on the list of things to do.</p><p>Apple's <a target="_blank" href="https://www.apple.com/mac/imovie/">iMovie</a> turned out to be not even sorta intuitive.&nbsp; I struggled with it for 2 days until a friend suggested I try <a target="_blank" href="https://www.apple.com/final-cut-pro/">Final Cut Pro X</a> trial version, and see if that worked any better.&nbsp; It did, a little.&nbsp; Both enforce this "event" idea that makes no sense to me at all.&nbsp; I just wanted to see the two videos I had, be able to dice them up into clips, and then assemble the clips into a movie.&nbsp; None of this worked like I would have thought in either product.&nbsp; I'll check to see if there's an Adobe Premier trial version.</p>]]></content:encoded>
+      <excerpt:encoded><![CDATA[<p>In a long string of firsts, I fly my Phantom 2 Vision+ and make a movie of it.</p>]]></excerpt:encoded>
+      <wp:post_name>2014/9/14/first-flight-of-the-phantom</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>13</wp:post_id>
+      <wp:status>publish</wp:status>
+      <pubDate>Sun, 14 Sep 2014 18:36:56 +0000</pubDate>
+      <wp:post_date>2014-09-14 18:36:56</wp:post_date>
+      <wp:post_date_gmt>2014-09-14 18:36:56</wp:post_date_gmt>
+      <category domain="post_tag" nicename="aerial-video"><![CDATA[aerial video]]></category>
+      <category domain="post_tag" nicename="phantom-2-vision"><![CDATA[Phantom 2 Vision+]]></category>
+      <category domain="post_tag" nicename="carrboro"><![CDATA[Carrboro]]></category>
+      <dc:creator>squarespace@munged.org</dc:creator>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_id</wp:meta_key>
+        <wp:meta_value><![CDATA[14]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/535094a2e4b0bf8f5524e59a/53509a1fe4b028029a01f562/5415d1c8e4b0c669adfe6fc1/1410719814188/#img.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/535094a2e4b0bf8f5524e59a/53509a1fe4b028029a01f562/5415d1c8e4b0c669adfe6fc1/1410719814188/#img.jpg</link>
+      <title>attachment-5415d1c8e4b0c669adfe6fc1</title>
+      <wp:post_name>5415d1c8e4b0c669adfe6fc1</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>14</wp:post_id>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5415d1c8e4b0c669adfe6fc1]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5415d1c8e4b0c669adfe6fc1]]></excerpt:encoded>
+      <pubDate>Sun, 14 Sep 2014 18:36:56 +0000</pubDate>
+      <wp:post_date>2014-09-14 18:36:56</wp:post_date>
+      <wp:post_date_gmt>2014-09-14 18:36:56</wp:post_date_gmt>
+      <dc:creator>squarespace@munged.org</dc:creator>
+    </item>
+    <item>
+      <title>Everyday Magic: The Clothes Dryer</title>
+      <link>/ymmv/2014/9/9/everyday-magic-the-clothes-dryer</link>
+      <content:encoded><![CDATA[<p>No matter what color clothes or towels I put in the dryer, the lint is always blue.</p>]]></content:encoded>
+      <excerpt:encoded />
+      <wp:post_name>2014/9/9/everyday-magic-the-clothes-dryer</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>15</wp:post_id>
+      <wp:status>publish</wp:status>
+      <pubDate>Wed, 10 Sep 2014 05:49:13 +0000</pubDate>
+      <wp:post_date>2014-09-10 05:49:13</wp:post_date>
+      <wp:post_date_gmt>2014-09-10 05:49:13</wp:post_date_gmt>
+      <category domain="post_tag" nicename="everyday-magic"><![CDATA[everyday magic]]></category>
+      <category domain="post_tag" nicename="magic"><![CDATA[magic]]></category>
+      <category domain="post_tag" nicename="dryer-lint"><![CDATA[dryer lint]]></category>
+      <dc:creator>squarespace@munged.org</dc:creator>
+      <wp:comment_status>closed</wp:comment_status>
+    </item>
+    <item>
+      <title>Phone Thoughts</title>
+      <link>/ymmv/2014/9/10/phone-thoughts</link>
+      <content:encoded><![CDATA[<p>My iPhone 4S is still going strong, tho it could probably use a new battery.&nbsp; I'll probably be buying an iPhone 6, probably the small one, because I want an iPhone with the motion co-processor.&nbsp; I use location services enough that I have it on all the time, and GPS just sucks the life out of the battery on an iPhone 4S.&nbsp; The M8 chip's primary purpose is not to provide GPS tracking, it is to provide GPS with a minimal power drain. The iPhone 5 has this too, but I couldn't justify upgrading that soon after I got my 4S.</p><p>I went from the iPhone 3G to the iPhone 4S, which is a 3 model upgrade (3G, 3Gs, 4, 4S). From the 4S to the 6 is also three models. My contract is way past time where I can get a new phone.</p><p>Really, the only decision to make on getting a new phone is not "should I", but "what carrier to get".</p><p>AT&amp;T sucks pretty much anywhere. But at the same time, they also mostly work almost everywhere.&nbsp; The only place I can get all 5 bars of service anywhere near me is in movie theaters.&nbsp; I almost get 1 bar at home. Sometimes.</p><p>Verizon has good service all over. But not on Cape Cod at my friend's house there, so they aren't infallible. The main problem with Verizon is that they are just pure evil. I had a Motorola Razor phone on Verizon, and the internet landing page that asked if you were sure you wanted to go the internet because you'd be charged for it, was ON THE INTERNET AND YOU WERE ALREADY BEING CHARGED FOR IT.&nbsp; Verizon started the bullshit of always announcing how to use voice mail because it makes everyone use extra airtime listening to it.</p><p>Sprint's coverage is good in some areas.&nbsp; Not so good in others.&nbsp; They appear to have the most data for the least money.</p><p>T-Mobile isn't an option.</p><p>I don't know that I'm ready to get an unlocked iPhone 6 and take it to a small MVNO that uses AT&amp;T or Verizon's networks.&nbsp; The phone is not cheap when not subsidized, I doubt the money saved by going small would offset the up-front cost of the unlocked phone.</p>]]></content:encoded>
+      <excerpt:encoded />
+      <wp:post_name>2014/9/10/phone-thoughts</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>16</wp:post_id>
+      <wp:status>publish</wp:status>
+      <pubDate>Wed, 10 Sep 2014 05:33:25 +0000</pubDate>
+      <wp:post_date>2014-09-10 05:33:25</wp:post_date>
+      <wp:post_date_gmt>2014-09-10 05:33:25</wp:post_date_gmt>
+      <category domain="post_tag" nicename="new-phone"><![CDATA[new phone]]></category>
+      <category domain="post_tag" nicename="iphone-6-plus"><![CDATA[iPhone 6 Plus]]></category>
+      <category domain="post_tag" nicename="iphone-6"><![CDATA[iPhone 6]]></category>
+      <category domain="post_tag" nicename="sprint"><![CDATA[Sprint]]></category>
+      <category domain="post_tag" nicename="att"><![CDATA[AT&T]]></category>
+      <category domain="post_tag" nicename="verizon"><![CDATA[Verizon]]></category>
+      <dc:creator>squarespace@munged.org</dc:creator>
+      <wp:comment_status>closed</wp:comment_status>
+    </item>
+    <item>
+      <title>Apple Event: Sept 2014</title>
+      <link>/ymmv/2014/9/10/apple-event-sept-2014</link>
+      <content:encoded><![CDATA[<p><a target="_blank" href="http://www.apple.com/live/2014-sept-event/">So</a>.</p><p>No new iPad.&nbsp; I'm bummed.&nbsp; I need to replace mine so I have one that works with my Phantom.</p><p>iPhone</p><p>The iPhone has been a mature platform now for years. Improvements to it are strictly evolutionary now, not revolutionary. So we have the iPhone 6 and iPhone 6 Plus.&nbsp; Bigger screens.&nbsp; Faster.&nbsp; Better camera.&nbsp; Better battery life.&nbsp; Yadda, yadda, yadda, yadda.</p><p>No news there worth remembering.&nbsp; I'll probably be getting one, because I want the motion co-processor so GPS stops sucking the life from the battery.</p><p>AppleWatch.</p><p>Looks cool. I'm sure it will be fun. I might get one. I might not. Ally is all hot to have one for the health stuff, and I might even get it for her. I've needed a watch for a long time. So maybe. We shall see.</p><p>ApplePay.</p><p>NFC is only about the short-range communication between two devices.&nbsp; Two phones, a phone and a computer, a phone and an NFC receiver, whatever.&nbsp; NFC can be used for anything.&nbsp; Payments. Opening hotel room doors. Sending files or contacts.&nbsp; Whatever you can think of. Samsung uses it to transfer assorted data between phones in a nifty sort of way that iPhones accomplish with BlueTooth.</p><p>In order to make ApplePay, Apple started with NFC, but had to implement everything from there thru the retailer to the banks at the back end.&nbsp; Security, the token implementation, encryption, all of it.&nbsp; This stuff all exists already, but until now it has never been implemented in the USA on the scale Apple seems to have managed.</p><p>Apple got agreements from retailers to put the NFC readers in their stores so there would be places for people to use ApplePay.&nbsp; That right there might be the single most important accomplishment of all of ApplePay. That's what adoption looks like for a payment system: retailers willing to use it.&nbsp; I'd challenge you to name another company that could pull that off.</p><p>Systems like ApplePay exist in other parts of the world already.&nbsp; Japan and Taiwan (and probably others) have had this kind of system for years. Those systems are driven by government bodies that set it all up. In the USA, Google and Microsoft have both started contact-less payment systems on their devices.&nbsp; The Google system has been around since 2009 or so.&nbsp; But have you heard of it, or used it anywhere in the USA? It might be unfair, but it seems like only Apple has the mind share to legitimize this kind of thing in this country.</p><p>Going forward, it will be interesting to see how it evolves.</p><p>And how will ApplePay be fit in to places where something similar already exists, like Taiwan and Japan?&nbsp; My guess is the iPhone will just support the existing systems, but who knows, there might be room for improving the user experience of them.</p><p> </p>]]></content:encoded>
+      <excerpt:encoded />
+      <wp:post_name>2014/9/10/apple-event-sept-2014</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>17</wp:post_id>
+      <wp:status>publish</wp:status>
+      <pubDate>Wed, 10 Sep 2014 05:18:57 +0000</pubDate>
+      <wp:post_date>2014-09-10 05:18:57</wp:post_date>
+      <wp:post_date_gmt>2014-09-10 05:18:57</wp:post_date_gmt>
+      <category domain="post_tag" nicename="iphone-6"><![CDATA[iPhone 6]]></category>
+      <category domain="post_tag" nicename="iphone-6-plus"><![CDATA[iPhone 6 Plus]]></category>
+      <category domain="post_tag" nicename="ipad"><![CDATA[iPad]]></category>
+      <category domain="post_tag" nicename="apple-pay"><![CDATA[Apple Pay]]></category>
+      <category domain="post_tag" nicename="apple-watch"><![CDATA[Apple Watch]]></category>
+      <category domain="post_tag" nicename="apple-event-2014"><![CDATA[Apple Event 2014]]></category>
+      <category domain="post_tag" nicename="applelive"><![CDATA[AppleLive]]></category>
+      <dc:creator>squarespace@munged.org</dc:creator>
+      <wp:comment_status>closed</wp:comment_status>
+    </item>
+<!--
+    <item>
+      <title>Self-Driving Cars</title>
+      <link>/ymmv/2014/6/26/self-driving-cars</link>
+      <content:encoded><![CDATA[<p>Everyone knows that <a target="_blank" href="https://www.google.com">Google</a> and others are working on <a target="_blank" href="http://en.wikipedia.org/wiki/Google_driverless_car">cars that drive themselves</a>.&nbsp; Some are saying "we'll all be driven around by these things in 2 years.</p><p><a href="http://bits.blogs.nytimes.com/2014/05/29/police-bicyclists-and-pedestrians-the-real-challenges-for-self-driving-cars/">Those people are wrong</a>.</p><p>Assuming that by some chance, cars can be self-driving in my lifetime, here are the issue I see and what it would take to get me in such a vehicle:</p><h2>Failure Modes</h2><p>I know the assorted ways I can fail when driving.&nbsp; My attention can wander.&nbsp; I can be fatigued.&nbsp; I can be looking behind me to change lanes when something happens in front of me.&nbsp; I could suddenly have a heart attack or some other medical disaster that takes me out.</p><p>Because I understand how these things work, I can do things to make sure they don't happen.&nbsp; I can avoid using my phone, or looking at the screen in the car too long.&nbsp; I can make sure I'm rested and not driving while too tired to stay awake. I can estimate conditions in front of me to know when it is okay to glance back over my shoulder to check traffic.&nbsp; I move the side mirrors so they show my blind spot instead of what's behind the car.</p><p>Yes, every now and then something bad will happen, but I've been pretty safe my whole life.&nbsp; Up until last year, my only accident happened in a driveway, when I backed into a retaining wall.&nbsp; Last year, I hit a deer that ran out onto the road before I could react.&nbsp; (Twice.&nbsp; Damnit.)&nbsp; I've been driving for 32 years now, and this failure rate is about average.</p><p>But when the car is doing the driving, there are all sorts of failures that can happen.&nbsp; Mechanical problems.&nbsp; Sensor failures.&nbsp; Obstructed views.&nbsp; Reaction to a situation that puts the vehicle in other danger.</p><p>None of those failures can be predicted.&nbsp; I know when I'm feeling sleepy, or when I'm not paying attention.&nbsp; But the programming of the vehicle's computer, and its susceptibility to immanent problems isn't knowable. There is no dashboard light for "I'm going to fuck up now and kill you."&nbsp; Because the vehicle is operating in real time, any problems are going to be signaled by bad things happening, like suddenly driving into the ditch or into a phone pole.</p><p>In theory, there would be backup systems.&nbsp; There would also be self-test diagnostics that would constantly monitor the vehicle for issues that would cause it to be unreliable.&nbsp; In the event that the vehicle suddenly can't turn the steering to the right, it would stop and sit there until the "driver" moves the car manually.&nbsp; If there are controls for doing so.</p><h2>Liability</h2><p>When an accident happens, who's at fault?&nbsp; The person sitting behind the wheel but not driving?&nbsp; The Automaker? The dealer? The owner? Some third party that is somehow involved?</p><p>If the vehicle fails in some way, and causes an accident faster than a human can intervene, is the driver at fault? How do we know if the driver could have intervened in time or not after the fact?</p><h2>Attention Span</h2><p>This is actually probably my biggest issue.&nbsp; Say we do get self-driving cars.&nbsp; But also say that the laws say that a human must be at the wheel to take over if the car does something it shouldn't. Or just to handle an edge case the car doesn't know how to handle.&nbsp; Like merging into busy traffic or making a left turn on a busy street.</p><p>If I'm not actually driving the car, my attention will wander.&nbsp; I promise you this.&nbsp; Maybe I'm not actually reading the paper or taking a nap, but I will be staring off into space out the side window watching the scenery pass by.&nbsp; Daydreaming. Counting the cows and horses in the fields we go by. Looking at the pretty girls on the sidewalk or the park.</p><p>If something happens, it is likely it will happen when I'm not prepared to intervene.</p><p>How do I stay always prepared to intervene?&nbsp; By driving the damn car all the time. If I'm not in constant and full control, then I must be a passenger with no responsibilities.</p><h2>Fun</h2><p>I like driving, always and anywhere, I'm enjoying controlling the car and making it get to my destination.&nbsp; The only time I don't like driving is when I'm sick or hurting somehow.&nbsp; But in that case I won't be driving in the first place.</p><p>Those who know me know that I drive cross-country for days at a time to get where I want to be.&nbsp; I don't fly if I can avoid it, even for work. I am often totally wiped out by these 2 day drives, but I won't stop doing them.</p><h2>A Long Way To Go</h2><p>Currently, self-driving cars don't work well in snow or rain, where visibility is limited and the lidar systems are blocked. They must be able to see the lane markers to function, which won't be possible in the Northern states during some or all of winter. While they can pick out bicyclists and their hand signals, pedestrians are just cylinders to avoid, not police officers directing traffic. Even assuming they can pick out a person waving their arms to try to stop traffic, how will they know who to obey? I how do they know who the police are, and who's just waving at a friend on the other side of the road? They will need to understand <a target="_blank" href="http://bits.blogs.nytimes.com/2014/05/29/police-bicyclists-and-pedestrians-the-real-challenges-for-self-driving-cars/">the "social ballet of merging", and other edge cases</a>.</p><h2>So What Would It Take?</h2><p>When will I be willing to let the car drive me around?</p><p>I must not have to pay any attention to the operation of the car.&nbsp; If I can't read a paper or book, use my iPad or a laptop, I won't let the car drive.&nbsp; This is an either/or criteria: I'm either driving, or I'm not.&nbsp; There is no middle ground.</p><p>Failure modes I'm willing to pass on, so long as there is some sort of certification/auditing process for both the mechanical and the software.&nbsp; Airplanes have been flying themselves for a long time, and aren't falling out of the sky like rain in a thunderstorm.&nbsp; Most airplane accidents happen due to pilot error.&nbsp; But passenger airplanes are designed and certified in multi-year-long tests and maintained religiously. Cars must be designed and tested to similarly rigorous standards.</p><p>Cars must also be able to handle even the edge cases and oddball situations.&nbsp; They must be able to merge with human-driven vehicles without being stranded on the on-ramp by assholes who won't give you an opening.</p><p>I must not have any liability of any kind for the vehicle's actions. So long as I can show I had the car maintained on schedule by a certified shop, I walk away even if the car has a problem and kills someone. This also applies to legal actions in civil court. I don't care where the liability lies, so long as none of it lands on me.</p><p>Fun.&nbsp; I guess I use the self-driving car when I am planning on getting shit-faced at a party or bar.&nbsp; Someplace where the fun of being there is greater than the fun of getting there and back.</p>]]></content:encoded>
+      <excerpt:encoded />
+      <wp:post_name>2014/6/26/self-driving-cars</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>18</wp:post_id>
+      <wp:status>publish</wp:status>
+      <pubDate>Wed, 10 Sep 2014 03:53:11 +0000</pubDate>
+      <wp:post_date>2014-09-10 03:53:11</wp:post_date>
+      <wp:post_date_gmt>2014-09-10 03:53:11</wp:post_date_gmt>
+      <category domain="post_tag" nicename="self-driving-cars"><![CDATA[self-driving cars]]></category>
+      <category domain="post_tag" nicename="robot-cars"><![CDATA[robot cars]]></category>
+      <dc:creator>squarespace@munged.org</dc:creator>
+      <wp:comment_status>closed</wp:comment_status>
+    </item>
+-->
+<!--
+    <item>
+      <title>Sarah Lacy Interviews Al Gore</title>
+      <link>/ymmv/2014/6/14/sarah-lacy-interviews-al-gore</link>
+      <content:encoded><![CDATA[<p>My opinion of <a target="_blank" href="http://www.algore.com/">Al Gore</a> has flip-flopped back and forth over the years.&nbsp; I mostly blame the media for this. Journalists for some reason are never kind to vice presidents, and so I pick that opinion up for myself.&nbsp; In years since, he is portrayed as a bunch of things, but of course the media picks the most sensational stuff, and so I sometimes have believed him to be a nut-job of the highest order.</p><p>I realize that I am human, and when I hear enough about something or someone in the media, I'll tend to pick up whatever slant is presented most often. It is a fact of our psychology, and it is hard to avoid.</p><p>My current opinion of Al Gore, is mostly that I'm sick and tired of Al Gore.</p><p>When I came across an interview, I decided to watch, to hear something about Al Gore that didn't come filtered thru the media. This is Al Gore in the words of Al Gore.</p><p>It is an interesting interview, and I'm really glad I watched. The interview only briefly touches on climate issues. The rest of it was really fascinating.</p><p>Things I liked:</p><ul><li>"Information Superhighway": He didn't invent the internet, but he did coin the phrase.</li><li>His relationship with Steve Jobs, being on Apple and Google boards.</li><li>His discussion about how our democracy has been "hacked" into not functioning as the founding fathers intended.</li><li>Edward Snowden: Not a hero, broke the laws, but did us a huge service in exposing constitutional violations that probably make the NSA <strong>less</strong> effective in doing its job.</li></ul><p>It is long, but I enjoyed the whole thing.&nbsp; Watch it here:</p>
+ 
+   <iframe src="//www.youtube.com/embed/iMQR6O7JWGk?wmode=opaque&amp;enablejsapi=1" scrolling="no" allowfullscreen="" frameborder="0" height="480" width="854">
+</iframe>
+ 
+<p id="yui_3_17_2_1_1402722172820_40039"><br></p>]]></content:encoded>
+      <excerpt:encoded />
+      <wp:post_name>2014/6/14/sarah-lacy-interviews-al-gore</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>19</wp:post_id>
+      <wp:status>publish</wp:status>
+      <pubDate>Sat, 14 Jun 2014 05:27:36 +0000</pubDate>
+      <wp:post_date>2014-06-14 05:27:36</wp:post_date>
+      <wp:post_date_gmt>2014-06-14 05:27:36</wp:post_date_gmt>
+      <category domain="post_tag" nicename="interview"><![CDATA[Interview]]></category>
+      <category domain="post_tag" nicename="sarah-lacy"><![CDATA[Sarah Lacy]]></category>
+      <category domain="post_tag" nicename="al-gore"><![CDATA[Al Gore]]></category>
+      <dc:creator>squarespace@munged.org</dc:creator>
+      <wp:comment_status>closed</wp:comment_status>
+    </item>
+-->
+    <item>
+      <title>Porsche Boxster</title>
+      <link>/ymmv/2014/5/16/porsche-boxster</link>
+      <content:encoded><![CDATA[<p>I'm sad. I don't fit in a Porsche Boxster.</p>]]></content:encoded>
+      <excerpt:encoded />
+      <wp:post_name>2014/5/16/porsche-boxster</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>20</wp:post_id>
+      <wp:status>publish</wp:status>
+      <pubDate>Fri, 16 May 2014 18:32:57 +0000</pubDate>
+      <wp:post_date>2014-05-16 18:32:57</wp:post_date>
+      <wp:post_date_gmt>2014-05-16 18:32:57</wp:post_date_gmt>
+      <dc:creator>squarespace@munged.org</dc:creator>
+      <wp:comment_status>closed</wp:comment_status>
+    </item>
+    <item>
+      <title>DemiCon 25 Photos</title>
+      <link>/ymmv/2014/5/8/demicon-25-photos</link>
+      <content:encoded><![CDATA[<p>I carried my camera around for a couple of hours at DemiCon.&nbsp; I wasn't very serious about taking photos.&nbsp; Most of them were shot in insufficient lighting with the camera in 'P'rogram mode.&nbsp; So most photos were done wide open, and thus most photos had about 1/8th of an inch depth-of-field, usually focused on the tip of the nose.&nbsp; There were strange shadows.&nbsp; I was manual focus,&nbsp; but didn't care enough to actually focus all the time.&nbsp; People moved.</p><p>But a few came out nicely enough to share with the world at large, I think.&nbsp; I didn't adjust white balance, but I did crop a few quickly.</p><div class="image-gallery-wrapper">
+
+  
+   <img src="http://static1.squarespace.com/static/535094a2e4b0bf8f5524e59a/53509a1fe4b028029a01f562/536badc5e4b0a03c478a159f/1399565800341/ZK8P0002.jpg" />
+  
+
+  
+   <img src="http://static1.squarespace.com/static/535094a2e4b0bf8f5524e59a/53509a1fe4b028029a01f562/536badc7e4b00b5a4b678b1c/1399565773488/ZK8P0003.jpg" />
+  
+
+  
+   <img src="http://static1.squarespace.com/static/535094a2e4b0bf8f5524e59a/53509a1fe4b028029a01f562/536badc7e4b017ad6784df8d/1399565771814/ZK8P0004.jpg" />
+  
+
+  
+   <img src="http://static1.squarespace.com/static/535094a2e4b0bf8f5524e59a/53509a1fe4b028029a01f562/536badc8e4b017ad6784df8f/1399565797653/ZK8P0005.jpg" />
+  
+
+  
+   <img src="http://static1.squarespace.com/static/535094a2e4b0bf8f5524e59a/53509a1fe4b028029a01f562/536badcbe4b0e813d9863e55/1399565799191/ZK8P0010.jpg" />
+  
+
+  
+   <img src="http://static1.squarespace.com/static/535094a2e4b0bf8f5524e59a/53509a1fe4b028029a01f562/536badcae4b017ad6784df91/1399565777440/ZK8P0109.jpg" />
+  
+
+  
+   <img src="http://static1.squarespace.com/static/535094a2e4b0bf8f5524e59a/53509a1fe4b028029a01f562/536badcbe4b017ad6784df9c/1399565778937/ZK8P0130.jpg" />
+  
+
+  
+   <img src="http://static1.squarespace.com/static/535094a2e4b0bf8f5524e59a/53509a1fe4b028029a01f562/536badcde4b0e813d9863e57/1399565780817/ZK8P0131.jpg" />
+  
+
+  
+   <img src="http://static1.squarespace.com/static/535094a2e4b0bf8f5524e59a/53509a1fe4b028029a01f562/536badcde4b017ad6784df9e/1399565798338/ZK8P0132.jpg" />
+  
+
+  
+   <img src="http://static1.squarespace.com/static/535094a2e4b0bf8f5524e59a/53509a1fe4b028029a01f562/536badcfe4b0a03c478a15a9/1399565783058/ZK8P0142.jpg" />
+  
+
+</div>]]></content:encoded>
+      <excerpt:encoded />
+      <wp:post_name>2014/5/8/demicon-25-photos</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>21</wp:post_id>
+      <wp:status>publish</wp:status>
+      <pubDate>Thu, 08 May 2014 16:40:06 +0000</pubDate>
+      <wp:post_date>2014-05-08 16:40:06</wp:post_date>
+      <wp:post_date_gmt>2014-05-08 16:40:06</wp:post_date_gmt>
+      <category domain="post_tag" nicename="demicon"><![CDATA[DemiCon]]></category>
+      <category domain="post_tag" nicename="demicon-25"><![CDATA[DemiCon 25]]></category>
+      <category domain="post_tag" nicename="sff"><![CDATA[SF&F]]></category>
+      <category domain="post_tag" nicename="photos"><![CDATA[Photos]]></category>
+      <dc:creator>squarespace@munged.org</dc:creator>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_id</wp:meta_key>
+        <wp:meta_value><![CDATA[32]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/535094a2e4b0bf8f5524e59a/53509a1fe4b028029a01f562/536badcfe4b0a03c478a15a9/1399565783058/ZK8P0142.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/535094a2e4b0bf8f5524e59a/53509a1fe4b028029a01f562/536badcfe4b0a03c478a15a9/1399565783058/ZK8P0142.jpg</link>
+      <title>attachment-536badcfe4b0a03c478a15a9</title>
+      <wp:post_name>ZK8P0142-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>22</wp:post_id>
+      <wp:post_parent>21</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-536badcfe4b0a03c478a15a9]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-536badcfe4b0a03c478a15a9]]></excerpt:encoded>
+      <pubDate>Thu, 08 May 2014 16:16:15 +0000</pubDate>
+      <wp:post_date>2014-05-08 16:16:15</wp:post_date>
+      <wp:post_date_gmt>2014-05-08 16:16:15</wp:post_date_gmt>
+      <dc:creator>squarespace@munged.org</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/535094a2e4b0bf8f5524e59a/53509a1fe4b028029a01f562/536badcde4b017ad6784df9e/1399565798338/ZK8P0132.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/535094a2e4b0bf8f5524e59a/53509a1fe4b028029a01f562/536badcde4b017ad6784df9e/1399565798338/ZK8P0132.jpg</link>
+      <title>attachment-536badcde4b017ad6784df9e</title>
+      <wp:post_name>ZK8P0132-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>23</wp:post_id>
+      <wp:post_parent>21</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-536badcde4b017ad6784df9e]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-536badcde4b017ad6784df9e]]></excerpt:encoded>
+      <pubDate>Thu, 08 May 2014 16:16:13 +0000</pubDate>
+      <wp:post_date>2014-05-08 16:16:13</wp:post_date>
+      <wp:post_date_gmt>2014-05-08 16:16:13</wp:post_date_gmt>
+      <dc:creator>squarespace@munged.org</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/535094a2e4b0bf8f5524e59a/53509a1fe4b028029a01f562/536badcde4b0e813d9863e57/1399565780817/ZK8P0131.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/535094a2e4b0bf8f5524e59a/53509a1fe4b028029a01f562/536badcde4b0e813d9863e57/1399565780817/ZK8P0131.jpg</link>
+      <title>attachment-536badcde4b0e813d9863e57</title>
+      <wp:post_name>ZK8P0131-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>24</wp:post_id>
+      <wp:post_parent>21</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-536badcde4b0e813d9863e57]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-536badcde4b0e813d9863e57]]></excerpt:encoded>
+      <pubDate>Thu, 08 May 2014 16:16:13 +0000</pubDate>
+      <wp:post_date>2014-05-08 16:16:13</wp:post_date>
+      <wp:post_date_gmt>2014-05-08 16:16:13</wp:post_date_gmt>
+      <dc:creator>squarespace@munged.org</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/535094a2e4b0bf8f5524e59a/53509a1fe4b028029a01f562/536badcbe4b017ad6784df9c/1399565778937/ZK8P0130.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/535094a2e4b0bf8f5524e59a/53509a1fe4b028029a01f562/536badcbe4b017ad6784df9c/1399565778937/ZK8P0130.jpg</link>
+      <title>attachment-536badcbe4b017ad6784df9c</title>
+      <wp:post_name>ZK8P0130-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>25</wp:post_id>
+      <wp:post_parent>21</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-536badcbe4b017ad6784df9c]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-536badcbe4b017ad6784df9c]]></excerpt:encoded>
+      <pubDate>Thu, 08 May 2014 16:16:11 +0000</pubDate>
+      <wp:post_date>2014-05-08 16:16:11</wp:post_date>
+      <wp:post_date_gmt>2014-05-08 16:16:11</wp:post_date_gmt>
+      <dc:creator>squarespace@munged.org</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/535094a2e4b0bf8f5524e59a/53509a1fe4b028029a01f562/536badcae4b017ad6784df91/1399565777440/ZK8P0109.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/535094a2e4b0bf8f5524e59a/53509a1fe4b028029a01f562/536badcae4b017ad6784df91/1399565777440/ZK8P0109.jpg</link>
+      <title>attachment-536badcae4b017ad6784df91</title>
+      <wp:post_name>ZK8P0109-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>26</wp:post_id>
+      <wp:post_parent>21</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-536badcae4b017ad6784df91]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-536badcae4b017ad6784df91]]></excerpt:encoded>
+      <pubDate>Thu, 08 May 2014 16:16:10 +0000</pubDate>
+      <wp:post_date>2014-05-08 16:16:10</wp:post_date>
+      <wp:post_date_gmt>2014-05-08 16:16:10</wp:post_date_gmt>
+      <dc:creator>squarespace@munged.org</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/535094a2e4b0bf8f5524e59a/53509a1fe4b028029a01f562/536badcbe4b0e813d9863e55/1399565799191/ZK8P0010.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/535094a2e4b0bf8f5524e59a/53509a1fe4b028029a01f562/536badcbe4b0e813d9863e55/1399565799191/ZK8P0010.jpg</link>
+      <title>attachment-536badcbe4b0e813d9863e55</title>
+      <wp:post_name>ZK8P0010-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>27</wp:post_id>
+      <wp:post_parent>21</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-536badcbe4b0e813d9863e55]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-536badcbe4b0e813d9863e55]]></excerpt:encoded>
+      <pubDate>Thu, 08 May 2014 16:16:11 +0000</pubDate>
+      <wp:post_date>2014-05-08 16:16:11</wp:post_date>
+      <wp:post_date_gmt>2014-05-08 16:16:11</wp:post_date_gmt>
+      <dc:creator>squarespace@munged.org</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/535094a2e4b0bf8f5524e59a/53509a1fe4b028029a01f562/536badc8e4b017ad6784df8f/1399565797653/ZK8P0005.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/535094a2e4b0bf8f5524e59a/53509a1fe4b028029a01f562/536badc8e4b017ad6784df8f/1399565797653/ZK8P0005.jpg</link>
+      <title>attachment-536badc8e4b017ad6784df8f</title>
+      <wp:post_name>ZK8P0005-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>28</wp:post_id>
+      <wp:post_parent>21</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-536badc8e4b017ad6784df8f]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-536badc8e4b017ad6784df8f]]></excerpt:encoded>
+      <pubDate>Thu, 08 May 2014 16:16:08 +0000</pubDate>
+      <wp:post_date>2014-05-08 16:16:08</wp:post_date>
+      <wp:post_date_gmt>2014-05-08 16:16:08</wp:post_date_gmt>
+      <dc:creator>squarespace@munged.org</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/535094a2e4b0bf8f5524e59a/53509a1fe4b028029a01f562/536badc7e4b017ad6784df8d/1399565771814/ZK8P0004.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/535094a2e4b0bf8f5524e59a/53509a1fe4b028029a01f562/536badc7e4b017ad6784df8d/1399565771814/ZK8P0004.jpg</link>
+      <title>attachment-536badc7e4b017ad6784df8d</title>
+      <wp:post_name>ZK8P0004-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>29</wp:post_id>
+      <wp:post_parent>21</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-536badc7e4b017ad6784df8d]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-536badc7e4b017ad6784df8d]]></excerpt:encoded>
+      <pubDate>Thu, 08 May 2014 16:16:07 +0000</pubDate>
+      <wp:post_date>2014-05-08 16:16:07</wp:post_date>
+      <wp:post_date_gmt>2014-05-08 16:16:07</wp:post_date_gmt>
+      <dc:creator>squarespace@munged.org</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/535094a2e4b0bf8f5524e59a/53509a1fe4b028029a01f562/536badc7e4b00b5a4b678b1c/1399565773488/ZK8P0003.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/535094a2e4b0bf8f5524e59a/53509a1fe4b028029a01f562/536badc7e4b00b5a4b678b1c/1399565773488/ZK8P0003.jpg</link>
+      <title>attachment-536badc7e4b00b5a4b678b1c</title>
+      <wp:post_name>ZK8P0003-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>30</wp:post_id>
+      <wp:post_parent>21</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-536badc7e4b00b5a4b678b1c]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-536badc7e4b00b5a4b678b1c]]></excerpt:encoded>
+      <pubDate>Thu, 08 May 2014 16:16:07 +0000</pubDate>
+      <wp:post_date>2014-05-08 16:16:07</wp:post_date>
+      <wp:post_date_gmt>2014-05-08 16:16:07</wp:post_date_gmt>
+      <dc:creator>squarespace@munged.org</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/535094a2e4b0bf8f5524e59a/53509a1fe4b028029a01f562/536badc5e4b0a03c478a159f/1399565800341/ZK8P0002.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/535094a2e4b0bf8f5524e59a/53509a1fe4b028029a01f562/536badc5e4b0a03c478a159f/1399565800341/ZK8P0002.jpg</link>
+      <title>attachment-536badc5e4b0a03c478a159f</title>
+      <wp:post_name>ZK8P0002-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>31</wp:post_id>
+      <wp:post_parent>21</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-536badc5e4b0a03c478a159f]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-536badc5e4b0a03c478a159f]]></excerpt:encoded>
+      <pubDate>Thu, 08 May 2014 16:16:05 +0000</pubDate>
+      <wp:post_date>2014-05-08 16:16:05</wp:post_date>
+      <wp:post_date_gmt>2014-05-08 16:16:05</wp:post_date_gmt>
+      <dc:creator>squarespace@munged.org</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/535094a2e4b0bf8f5524e59a/53509a1fe4b028029a01f562/536bad76e4b020e749965778/1399567207362/ZK8P0108.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/535094a2e4b0bf8f5524e59a/53509a1fe4b028029a01f562/536bad76e4b020e749965778/1399567207362/ZK8P0108.jpg</link>
+      <title>attachment-536bad76e4b020e749965778</title>
+      <wp:post_name>ZK8P0108-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>32</wp:post_id>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-536bad76e4b020e749965778]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-536bad76e4b020e749965778]]></excerpt:encoded>
+      <pubDate>Thu, 08 May 2014 16:40:06 +0000</pubDate>
+      <wp:post_date>2014-05-08 16:40:06</wp:post_date>
+      <wp:post_date_gmt>2014-05-08 16:40:06</wp:post_date_gmt>
+      <dc:creator>squarespace@munged.org</dc:creator>
+    </item>
+<!--
+    <item>
+      <title>Wasps</title>
+      <link>/ymmv/2014/4/25/wasps</link>
+      <content:encoded><![CDATA[<p>On Wednesday I looked up at the window over my desk, and there was a wasp flying around against the blinds.&nbsp; It took me a while of following it around, but I killed it with a fly-swatter in the kitchen.</p><p>Today (Friday) as I was getting a glass of water at the kitchen sink, I saw a wasp shaped shadow on the curtains over the sink.&nbsp; I killed that one with the fly-swatter too, and then a second one flew out at me.&nbsp; After following it around the kitchen for a couple of minutes, I managed to kill it as well.</p><p>That's three in two days.&nbsp; Gonna have to look at the house, to see if I can figure out what's going on.&nbsp; Off the top of my head, I'm guessing they are either coming in thru the range hood vent, or thru the badly-hung back door.&nbsp; Or the fireplace.&nbsp; Never used it, so never even think of it.</p><p>Guess I'll let the landlord know tomorrow too.</p>]]></content:encoded>
+      <excerpt:encoded />
+      <wp:post_name>2014/4/25/wasps</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>33</wp:post_id>
+      <wp:status>publish</wp:status>
+      <pubDate>Sat, 26 Apr 2014 03:44:50 +0000</pubDate>
+      <wp:post_date>2014-04-26 03:44:50</wp:post_date>
+      <wp:post_date_gmt>2014-04-26 03:44:50</wp:post_date_gmt>
+      <dc:creator>squarespace@munged.org</dc:creator>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_id</wp:meta_key>
+        <wp:meta_value><![CDATA[34]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+-->
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/535094a2e4b0bf8f5524e59a/53509a1fe4b028029a01f562/535b2bbde4b0c0f6c539f598/1398626386810/DSC_1965.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/535094a2e4b0bf8f5524e59a/53509a1fe4b028029a01f562/535b2bbde4b0c0f6c539f598/1398626386810/DSC_1965.jpg</link>
+      <title>attachment-535b2bbde4b0c0f6c539f598</title>
+      <wp:post_name>DSC-1965-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>34</wp:post_id>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-535b2bbde4b0c0f6c539f598]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-535b2bbde4b0c0f6c539f598]]></excerpt:encoded>
+      <pubDate>Sat, 26 Apr 2014 03:44:50 +0000</pubDate>
+      <wp:post_date>2014-04-26 03:44:50</wp:post_date>
+      <wp:post_date_gmt>2014-04-26 03:44:50</wp:post_date_gmt>
+      <dc:creator>squarespace@munged.org</dc:creator>
+    </item>
+<!--
+    <item>
+      <title>Start Button and Other Damage</title>
+      <link>/ymmv/2014/4/24/wook-1-new-start-button-and-other-damage</link>
+      <content:encoded><![CDATA[[caption id="" align="alignnone" width="1550.0"]<img src="http://static1.squarespace.com/static/535094a2e4b0bf8f5524e59a/53509a1fe4b028029a01f562/535984b5e4b019d5b7b815f6/1398375625314/startenginestop.jpg" alt="The pointy bits of the 'A' and 'N' have rubbed off."/> The pointy bits of the 'A' and 'N' have rubbed off.[/caption] 
+  
+
+<p>Car goes in next week for a new "Start Engine Stop" button. The foil is peeling off, and it is a warranty fix, so I'm gonna let them fix it before the car is out of warranty next month.</p><p>More serious tho, is the rattle under the car. They found it is a heavy steal cross-member that is bent, and contacting the exhaust pipe. They said you'd have to hit a pretty big rock or something with the full weight of the car to bend this thing. It is part of the bracing for torsional ri<span>gidity, and is heavy enough that they had no way to bend it back.</span>&nbsp; It needs to be replaced.</p><p>That's not warranty work, and is probably a 7- or $800 fix. Now to decide if that's far enough above the $500 deductible that it is worth doing as an insurance thing. I'm curious what a body shop would say about it tho.&nbsp; Maybe they have a big jig of some sort that they can just bend it back for cheap.&nbsp; If it does end up being an insurance thing, might be time to get the second set of deer dents taken care of, too.</p>]]></content:encoded>
+      <excerpt:encoded />
+      <wp:post_name>2014/4/24/wook-1-new-start-button-and-other-damage</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>35</wp:post_id>
+      <wp:status>publish</wp:status>
+      <pubDate>Thu, 24 Apr 2014 21:01:11 +0000</pubDate>
+      <wp:post_date>2014-04-24 21:01:11</wp:post_date>
+      <wp:post_date_gmt>2014-04-24 21:01:11</wp:post_date_gmt>
+      <category domain="post_tag" nicename="a5"><![CDATA[A5]]></category>
+      <category domain="post_tag" nicename="wook-1"><![CDATA[WOOK 1]]></category>
+      <category domain="post_tag" nicename="vehicle-maintenance"><![CDATA[vehicle maintenance]]></category>
+      <category domain="post_tag" nicename="whaaaa"><![CDATA[whaaaa!]]></category>
+      <category domain="post_tag" nicename="first-world-problems"><![CDATA[First World Problems]]></category>
+      <category domain="category" nicename="ymmv"><![CDATA[YMMV]]></category>
+      <dc:creator>squarespace@munged.org</dc:creator>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_id</wp:meta_key>
+        <wp:meta_value><![CDATA[37]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+-->
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/535094a2e4b0bf8f5524e59a/53509a1fe4b028029a01f562/535984b5e4b019d5b7b815f6/1398375625314/startenginestop.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/535094a2e4b0bf8f5524e59a/53509a1fe4b028029a01f562/535984b5e4b019d5b7b815f6/1398375625314/startenginestop.jpg</link>
+      <title>attachment-535984b5e4b019d5b7b815f6</title>
+      <wp:post_name>startenginestop-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>36</wp:post_id>
+      <wp:post_parent>35</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-535984b5e4b019d5b7b815f6]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-535984b5e4b019d5b7b815f6]]></excerpt:encoded>
+      <pubDate>Thu, 24 Apr 2014 21:40:05 +0000</pubDate>
+      <wp:post_date>2014-04-24 21:40:05</wp:post_date>
+      <wp:post_date_gmt>2014-04-24 21:40:05</wp:post_date_gmt>
+      <dc:creator>squarespace@munged.org</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/535094a2e4b0bf8f5524e59a/53509a1fe4b028029a01f562/53597680e4b09312a9043bf0/1415342916107/IMG_0502.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/535094a2e4b0bf8f5524e59a/53509a1fe4b028029a01f562/53597680e4b09312a9043bf0/1415342916107/IMG_0502.jpg</link>
+      <title>attachment-53597680e4b09312a9043bf0</title>
+      <wp:post_name>IMG-0502-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>37</wp:post_id>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-53597680e4b09312a9043bf0]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-53597680e4b09312a9043bf0]]></excerpt:encoded>
+      <pubDate>Thu, 24 Apr 2014 21:01:11 +0000</pubDate>
+      <wp:post_date>2014-04-24 21:01:11</wp:post_date>
+      <wp:post_date_gmt>2014-04-24 21:01:11</wp:post_date_gmt>
+      <dc:creator>squarespace@munged.org</dc:creator>
+    </item>
+<!-- Copied to github repo
+    <item>
+      <title>First Post!</title>
+      <link>/ymmv/2014/4/21/first-post</link>
+      <content:encoded><![CDATA[<p>Going to give this blogging thing a try for a year, i think. Again. At assorted times, I get an itch to write a blog post, and you can do that here. But who knows if I'll actually post anything after this, but I won't know unless I try.</p><p>And it isn't outrageously expensive, or overly complicated. It is cheaper than a World of Warcraft subscription, and only mildly complicated.</p>]]></content:encoded>
+      <excerpt:encoded />
+      <wp:post_name>2014/4/21/first-post</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>38</wp:post_id>
+      <wp:status>publish</wp:status>
+      <pubDate>Tue, 22 Apr 2014 03:13:48 +0000</pubDate>
+      <wp:post_date>2014-04-22 03:13:48</wp:post_date>
+      <wp:post_date_gmt>2014-04-22 03:13:48</wp:post_date_gmt>
+      <category domain="category" nicename="meta"><![CDATA[META]]></category>
+      <dc:creator>squarespace@munged.org</dc:creator>
+      <wp:comment_status>closed</wp:comment_status>
+    </item>
+-->
+    <item>
+      <title>Science Isn't Truth</title>
+      <link>/ymmv/2014/9/22/science-isnt-truth</link>
+      <content:encoded><![CDATA[<p>It sucks when talented science communicators get something wrong.&nbsp; Neil DeGrass Tyson, in his Cosmos series, says over and over that "science is the search for truth".&nbsp; It bothered me when he I heard that, because I think there are truths that aren't discoverable via science.&nbsp; For example, despite lots of research on altruism, "be nice to each other" isn't something you will arrive at via science.&nbsp; (Tho you can get close.)</p>
+<p>http://theweek.com/article/index/268360/how-our-botched-understanding-of-science-ruins-everything</p>]]></content:encoded>
+      <excerpt:encoded />
+      <wp:post_name>2014/9/22/science-isnt-truth</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>39</wp:post_id>
+      <wp:status>draft</wp:status>
+      <pubDate>Mon, 22 Sep 2014 15:51:12 +0000</pubDate>
+      <wp:post_date>2014-09-22 15:51:12</wp:post_date>
+      <wp:post_date_gmt>2014-09-22 15:51:12</wp:post_date_gmt>
+      <dc:creator>squarespace@munged.org</dc:creator>
+      <wp:comment_status>open</wp:comment_status>
+    </item>
+    <item>
+      <title>Yelp Turns Evil</title>
+      <link>/ymmv/2014/9/22/yelp-turns-evil</link>
+      <content:encoded><![CDATA[<p>http://arstechnica.com/business/2014/09/why-this-tiny-italian-restaurant-gives-a-discount-for-bad-yelp-reviews/</p>]]></content:encoded>
+      <excerpt:encoded />
+      <wp:post_name>2014/9/22/yelp-turns-evil</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>40</wp:post_id>
+      <wp:status>draft</wp:status>
+      <pubDate>Mon, 22 Sep 2014 05:02:59 +0000</pubDate>
+      <wp:post_date>2014-09-22 05:02:59</wp:post_date>
+      <wp:post_date_gmt>2014-09-22 05:02:59</wp:post_date_gmt>
+      <dc:creator>squarespace@munged.org</dc:creator>
+      <wp:comment_status>open</wp:comment_status>
+    </item>
+    <item>
+      <title>The Sharing Economy Really Isn't</title>
+      <link>/ymmv/2014/9/7/the-sharing-economy-really-isnt</link>
+      <content:encoded><![CDATA[<p>Supposedly, if you listen to the nut-jobs in Silicon Valley, you will know that we are entering the "<a target="_blank" href="http://en.wikipedia.org/wiki/Sharing_economy">sharing economy</a>", whereby people with more than they need, "share" it with other people.&nbsp; The companies are</p><p>The idea is this: you have something but either won't be using it, or want to share it with others.&nbsp; You do this out of the goodness of your heart, I think.&nbsp; You own a house, and have a spare room, so you share it.&nbsp; Own a car? Going across town and have a seat open? Share it.&nbsp; Remember, you aren't renting or playing taxi, you are "SHARING".</p><p>Bullshit.</p><p>We've had carpooling, "ride boards" at schools, and other means of finding a ride to share forever. People have taken in boarders forever, in fact back in the early 20th century it was pretty common. People have owned houses on the New Jersey shore, and pretty much all along the eastern seaboard, forever, and have rented them out during the summer months to cover costs of owning a second house too far away from work to commute to every day.</p><p>Now, suddenly these activities are "sharing"?&nbsp; No.</p><p>Well, yes they are, but they are sharing the same way a hotel "shares" a room with you, or a taxi driver "shares" a ride with you. They provide a service and you pay them money.&nbsp; This really isn't new.</p><p>The leap these companies have made, is not about sharing.&nbsp; It is about providing access to the customer base.</p><p>When I was a kid, if you had a car and wanted to carpool, you had to somehow find someone to carpool with. But this only worked because you could take the time, and it could be set up way in advance. Finding someone who would kick in a few bucks for a long trip across town an hour from now was basically impossible.&nbsp; So didn't happen much.&nbsp;</p><p>What Airbnb, Uber, Lyft, and others have done, is not made sharing possible, they've made it easy. AirBNB is a hotel room booking company.&nbsp; Uber and Lyft are dispatch companies.&nbsp; The difference between them and the companies that existed is that of lowering the barriers to access.&nbsp; Both for the landlord/driver, and renter/rider.</p><p>Ten years ago, if you wanted to pick up people in your car, you had to sign up with a taxi company, get a commercial license, and put the equipment in your car to process payments. You weren't going to do this just to drive some shlub to the mall every now and then. Uber and Lyft will sign you up as driver or a rider if you have a smartphone and fill out a form on a web site.&nbsp; They will handle the payment.&nbsp; If that's all it takes to drive that shlub to the mall, then why the hell not.</p><p>This is a revolution, but not the one the proponents of "sharing" would have you believe it is.&nbsp; These companies allow much easier access to both the providers and customers than was possible before.</p><p>Is this good?&nbsp; Yes, I think it is.&nbsp; But sharing isn't new.&nbsp; The ease of access to the customer base is new.</p><p>Thus, the "Access Economy".</p>]]></content:encoded>
+      <excerpt:encoded />
+      <wp:post_name>2014/9/7/the-sharing-economy-really-isnt</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>41</wp:post_id>
+      <wp:status>draft</wp:status>
+      <pubDate>Sun, 07 Sep 2014 04:27:17 +0000</pubDate>
+      <wp:post_date>2014-09-07 04:27:17</wp:post_date>
+      <wp:post_date_gmt>2014-09-07 04:27:17</wp:post_date_gmt>
+      <category domain="post_tag" nicename="uber"><![CDATA[uber]]></category>
+      <category domain="post_tag" nicename="lyft"><![CDATA[lyft]]></category>
+      <category domain="post_tag" nicename="airbnb"><![CDATA[airbnb]]></category>
+      <category domain="post_tag" nicename="access-economy"><![CDATA[access economy]]></category>
+      <category domain="post_tag" nicename="sharing-economy"><![CDATA[sharing economy]]></category>
+      <category domain="category" nicename="pontification"><![CDATA[Pontification]]></category>
+      <dc:creator>squarespace@munged.org</dc:creator>
+      <wp:comment_status>open</wp:comment_status>
+    </item>
+    <item>
+      <title />
+      <link>/ymmv/2015/3/4/42iwc4ha6qf2o7yvuuo5nsolr9oqra</link>
+      <content:encoded />
+      <excerpt:encoded />
+      <wp:post_name>2015/3/4/42iwc4ha6qf2o7yvuuo5nsolr9oqra</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>42</wp:post_id>
+      <wp:status>draft</wp:status>
+      <pubDate>Thu, 05 Mar 2015 04:56:43 +0000</pubDate>
+      <wp:post_date>2015-03-05 04:56:43</wp:post_date>
+      <wp:post_date_gmt>2015-03-05 04:56:43</wp:post_date_gmt>
+      <dc:creator>squarespace@munged.org</dc:creator>
+      <wp:comment_status>open</wp:comment_status>
+    </item>
+    <item>
+      <title />
+      <link>/ymmv/2014/11/23/gs9xfo600wyexm70iip2xsdkove6wz</link>
+      <content:encoded />
+      <excerpt:encoded />
+      <wp:post_name>2014/11/23/gs9xfo600wyexm70iip2xsdkove6wz</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>43</wp:post_id>
+      <wp:status>draft</wp:status>
+      <pubDate>Sun, 23 Nov 2014 23:51:32 +0000</pubDate>
+      <wp:post_date>2014-11-23 23:51:32</wp:post_date>
+      <wp:post_date_gmt>2014-11-23 23:51:32</wp:post_date_gmt>
+      <dc:creator>squarespace@munged.org</dc:creator>
+      <wp:comment_status>open</wp:comment_status>
+    </item>
+    <item>
+      <title>iPad Air 2 Notes</title>
+      <link>/ymmv/2014/11/15/ipad-air-2-notes</link>
+      <content:encoded><![CDATA[<p>Today I bought myself an iPad Air 2.&nbsp; I'll update this over time with my impressions, comments, rants, and whatever else about this device.</p><p>First off, this thing is thin and light. So light, I have to wonder if I can trust it to last. My joke has been that it is so light that I'm finding it hard to take seriously. Like a grown woman with a little-girl voice.</p><p>I got Apple's "Smart Case" for it aswell.&nbsp; I already hate it. But in my experience, I'd hate all the alternatives even more. The only case I ever liked was the very first one Apple ever made for the iPad 1.&nbsp; It had cover with one fold in it, and if you tucked it into a flap on the back, you could stand it up or set it down to have it inclined towards you.&nbsp; The current tri-fold, magnetized, bullshit isn't nearly as stable, reliable, or easy to handle.&nbsp; That first one was sturdy enough to provide a handle of sorts for people like me with over-sized hands, new ones fail miserably that way.</p><p>Touch ID: <strong>LOVE IT</strong>.&nbsp; It hasn't failed to unlock the device for the finger I have stored it it.&nbsp; It hasn't opened for any other finger I've tried.&nbsp; I've also got 1Password, the password manager I use, set up to accept it too, which is handy.</p><p>I didn't restore from my previous iPad, so I'm setting this one up by hand. I wanted to start fresh to leave behind the all the stuff I don't use that might be on the other one.&nbsp; So far, this process has gone about as expected. It does take some time to run thru everything, but I knew that.&nbsp; Other than that I won't comment on this process, unless as some time it has a problem.</p><p>I thought you were supposed to be able to use Apple Pay on the Air 2, but it doesn't have the passbook app, so I guess not.&nbsp; Probably can use</p>]]></content:encoded>
+      <excerpt:encoded />
+      <wp:post_name>2014/11/15/ipad-air-2-notes</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>44</wp:post_id>
+      <wp:status>draft</wp:status>
+      <pubDate>Sat, 15 Nov 2014 21:28:09 +0000</pubDate>
+      <wp:post_date>2014-11-15 21:28:09</wp:post_date>
+      <wp:post_date_gmt>2014-11-15 21:28:09</wp:post_date_gmt>
+      <dc:creator>squarespace@munged.org</dc:creator>
+      <wp:comment_status>open</wp:comment_status>
+    </item>
+    <item>
+      <link>/faq/</link>
+      <title>About Munged and Wookie</title>
+      <pubDate>Wed, 11 Mar 2015 05:18:22 +0000</pubDate>
+      <content:encoded><![CDATA[<h1>Who Am I?</h1><p>My nickname is Wookie.&nbsp; It is a college nickname, the details are long and boring.&nbsp; It is what most people call me, outside of family.</p><p>Other than that, I'm just a guy that can afford an account with Squarespace.&nbsp; I've blogged in the past, and am going to see what happens if I do so again.</p><h1>What Is Going On Here?</h1><p>This is just a place to type words that shows up (sometimes) where everyone in the world can see them. Anything could show up here: personal observations, opinions, incoherent swearing, links to stuff I find interesting, or whatever.</p><h1>"Incoherent Swearing"?</h1><p>I'm a potty-mouth.&nbsp; I have opinions.&nbsp; Sometimes, those two things collide in my brain and the results show up here.</p><h1>Wook Elsewhere</h1><p>I spent a while looking at some other, lesser-known, social networks.&nbsp; I also have accounts on some more-known social networks. Here is the list of the ones I remember joining:</p><ul><li><a href="https://www.facebook.com/wookman">Wookman</a> on <a href="https://www.facebook.com">Facebook</a></li><li><a href="https://twitter.com/wookman">@wookman</a> on <a href="https://twitter.com">Twitter</a></li><li><a href="https://ello.co/wook">@wook</a> on <a href="https://ello.co">Ello</a></li><li><a href="https://quitter.no/wook">@wook</a> on <a href="https://www.gnu.org/software/social/">Gnusocial</a> via <a href="https://quitter.no">quitter.no</a></li><li><a href="#"><span>wook@diasp.org</span></a> on <a href="https://diasporafoundation.org/">Diaspora</a> via the <a href="https://diasp.org">diasp.org pod</a></li><li><a href="http://www.bubblews.com/account/545703">&amp;wook</a> on <a href="http://www.bubblews.com">Bubblews</a></li><li><a href="https://wook.cupcake.is">wook.cupcake.is</a> on <a href="https://tent.io/">Tent</a> via <a href="https://cupcake.io/">Cupcake</a></li><li><a href="https://fmrl.me/Wook">wook@fmrl.me</a> on <a href="https://fmrl.me/">Ephemeral Me</a>, which is a <a href="http://pump.io/">pump.io</a> server</li></ul><p> </p>]]></content:encoded>
+      <wp:post_name>faq</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>45</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/damnit/</link>
+      <title>Damnit!</title>
+      <pubDate>Thu, 15 May 2014 15:55:55 +0000</pubDate>
+      <content:encoded><![CDATA[<p class="text-align-center">You broke it, you now have to buy both pieces.</p>]]></content:encoded>
+      <wp:post_name>damnit</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>46</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+  </channel>
+</rss>
+
