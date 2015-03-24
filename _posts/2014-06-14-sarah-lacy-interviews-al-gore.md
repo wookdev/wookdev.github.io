@@ -1,13 +1,18 @@
 ---
+layout: post
 title: Sarah Lacy Interviews Al Gore
 link: /ymmv/2014/6/14/sarah-lacy-interviews-al-gore
 postname: 2014/6/14/sarah-lacy-interviews-al-gore
-posttype: post
 postid: 19
 pubDate: Sat, 14 Jun 2014 05:27:36 +0000
 postdate: 2014-06-14 05:27:36
 postdategmt: 2014-06-14 05:27:36
-tags: interview sarah-lacy al-gore
+tags:
+  - Video
+  - Interview
+  - Sarah Lacy
+  - Al Gore
+  - Information Superhighway
 creator: squarespace@munged.org</dc:creator>
 ---
 My opinion of [Al Gore][] has flip-flopped back and forth over the years. I mostly

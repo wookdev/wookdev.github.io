@@ -19,7 +19,7 @@ Some are saying "we'll all be driven around by these things in 2 years".
 Assuming that by some chance, cars can be self-driving in my lifetime, here are
 the issue I see and what it would take to get me in such a vehicle:
 
-## Failure Modes
+### Failure Modes
 
 I know the assorted ways I can fail when driving. My attention can wander.
 I can be fatigued. I can be looking behind me to change lanes when something
@@ -56,7 +56,7 @@ unreliable. In the event that the vehicle suddenly can't turn the steering to
 the right, it would stop and sit there until the "driver" moves the car manually.
 If there are controls for doing so.
 
-## Liability
+### Liability
 
 When an accident happens, who's at fault? The person sitting behind the wheel
 but not driving? The Automaker? The dealer? The owner? Some third party that is
@@ -66,7 +66,7 @@ If the vehicle fails in some way, and causes an accident faster than a human can
 intervene, is the driver at fault? How do we know if the driver could have intervened
 in time or not after the fact?
 
-## Attention Span
+### Attention Span
 
 This is actually probably my biggest issue. Say we do get self-driving cars.
 But also say that the laws say that a human must be at the wheel to take over if the car
@@ -85,7 +85,7 @@ How do I stay always prepared to intervene? By driving the damn car all the time
 If I'm not in constant and full control, then I must be a passenger with no
 responsibilities.
 
-## Fun
+### Fun
 
 I like driving, always and anywhere, I'm enjoying controlling the car and making it
 get to my destination. The only time I don't like driving is when I'm sick or
@@ -95,7 +95,7 @@ Those who know me know that I drive cross-country for days at a time to get wher
 want to be. I don't fly if I can avoid it, even for work. I am often totally
 wiped out by these 2 day drives, but I won't stop doing them.
 
-## A Long Way To Go
+### A Long Way To Go
 
 Currently, self-driving cars don't work well in snow or rain, where visibility is
 limited and the lidar systems are blocked. They must be able to see the lane markers
@@ -107,7 +107,7 @@ who to obey? I how do they know who the police are, and who's just waving at a f
 on the other side of the road? They will need to understand ["social ballet of merging",
 and other edge cases][nytimes].
 
-## So What Would It Take?
+### So What Would It Take?
 
 When will I be willing to let the car drive me around?
 
