@@ -25,3 +25,7 @@ defaults:
     values:
       author: Wook
       layout: post
+
+# Gems
+gems:
+  - jekyll-redirect-from
