@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Violations of A Computer Theory
+title: Why I Bought an Apple iMac
 date: 2002-02-09
 datestr: Saturday, February 9, 2002
 permalink: /imho/iMac.html
@@ -153,7 +153,7 @@ an iPod (firewire).
 The little iMac I purchased to be the computer I wouldn't be 
 tempted to play with has turned into the primary machine. In some respects the 
 only machine. It now takes up more desk space than the mini-tower Micron with 
-the 21&quot; monitor. It has 10 times more disk space available for use. It 
+the 21 inch monitor. It has 10 times more disk space available for use. It 
 is actually a faster machine. All this despite the 15&quot; screen, which is 
 Very Small. When I got my laptop with a 15&quot; screen, I thought I was going 
 to go nuts. It is amazing the things that become normal when you have few other 
