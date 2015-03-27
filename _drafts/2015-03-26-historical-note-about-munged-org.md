@@ -5,12 +5,9 @@ author: Wook
 datestr: Thursday, March 26th, 2015
 ---
 
-My blogging activities started shortly after 9/11 happened, even tho I'd been dicking
-around with the web for a couple of years by then.
-
-What happened was that shortly
-after the terrorist attacks of September 11th, [American Airlines flight 587
-crashed on takeoff from JFK][aa587].  I was in London for work that day, and
+My blogging activities started shortly after the terrorist attacks of September 11th,
+2001 happened. [American Airlines flight 587
+crashed on takeoff from JFK][aa587].  I was in London for work that week, and
 my voicemail pretty quickly loaded up with family asking where I was and if I was
 okay.  I was, but I didn't have a mobile phone that worked in the UK, so I had no
 way to listen to them, or respond.
@@ -21,7 +18,7 @@ of in the mindset at the time that catastrophes were something that we just goin
 to be a fact of life from them on.
 
 The sensible thing, looking back, would have been to use a shared calendar
-somewhere on the web, and invite my family to be able to view is.  I have no idea why
+somewhere on the web, and give my family access.  I have no idea why
 that didn't seem like a good idea 13 years ago.  I vaguely remember rejecting
 the idea of using Yahoo's calendar.  I have no idea what I didn't like about
 it.
@@ -30,7 +27,8 @@ Instead, I started posting on a website my comings, goings, and whereabouts, in
 a "web journal" format.  I wrote the first html pages by hand in vi.  After a while of
 doing that, I bought DreamWeaver, since it was _The Shit_ at that point.
 
-These posts on this site now, start at that website.  They haven't been on
+These posts on this site now, start at that website, on November 21st, 2001.
+They haven't been on
 Munged.Org since sometime in 2009, when I stopped using the Movable Type content
 management system.
 
@@ -50,7 +48,7 @@ The static thing, basically never even made it to a web page.
 
 I tried Tumblr next. Useful, I guess. Never really did much with it.
 
-Next in line was SquareSpace, where <www.munged.org> is still as I write this.
+Next in line was SquareSpace, where *[www.munged.org][]* is still as I write this.
 Square is nice, and it was really easy to create a good-looking site in almost
 no time at all. My complaints with Square are minor.  Because the focus is on
 pretty web sites, I can't find the minimalist, clean, look I'd prefer.  All the
@@ -66,5 +64,5 @@ While being hacked was half the reason I stopped blogging, the other half was th
 FB was fulfilling my creative outlet.  I joined FB in 2008, and started really
 participating in it in 2009.  
 
-
-[aa587]: https://en.wikipedia.org/wiki/American_Airlines_Flight_587
+[www.munged.org]: http://www.munged.org
+[aa587]:          https://en.wikipedia.org/wiki/American_Airlines_Flight_587
