@@ -26,22 +26,33 @@ care enough to actually focus all the time. People moved.
 But a few came out nicely enough to share with the world at large, I think.
 I didn't adjust white balance, but I did crop a few quickly.
   
-![ZK8P0002](/pics/ZK8P0002.jpg)
+![ZK8P0002][]
 
-![ZK8P0003](/pics/ZK8P0003.jpg)
+![ZK8P0003][]
 
-![ZK8P0004](/pics/ZK8P0004.jpg)
+![ZK8P0004][]
 
-![ZK8P0005](/pics/ZK8P0005.jpg)
+![ZK8P0005][]
 
-![ZK8P0010](/pics/ZK8P0010.jpg)
+![ZK8P0010][]
 
-![ZK8P0109](/pics/ZK8P0109.jpg)
+![ZK8P0109][]
 
-![ZK8P0130](/pics/ZK8P0130.jpg)
+![ZK8P0130][]
 
-![ZK8P0131](/pics/ZK8P0131.jpg)
+![ZK8P0131][]
 
-![ZK8P0132](/pics/ZK8P0132.jpg)
+![ZK8P0132][]
 
-![ZK8P0142](/pics/ZK8P0142.jpg)
+![ZK8P0142][]
+
+[ZK8P0002]: /pics/ZK8P0002.jpg "Kriss bartending."
+[ZK8P0003]: /pics/ZK8P0003.jpg "Ange"
+[ZK8P0004]: /pics/ZK8P0004.jpg "Ange closeup"
+[ZK8P0005]: /pics/ZK8P0005.jpg "Megs"
+[ZK8P0010]: /pics/ZK8P0010.jpg "Joe"
+[ZK8P0109]: /pics/ZK8P0109.jpg "Rachelle"
+[ZK8P0130]: /pics/ZK8P0130.jpg "Masque judges judging"
+[ZK8P0131]: /pics/ZK8P0131.jpg "Greg"
+[ZK8P0132]: /pics/ZK8P0132.jpg "Heather"
+[ZK8P0142]: /pics/ZK8P0142.jpg "Les"
