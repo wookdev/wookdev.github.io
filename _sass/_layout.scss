@@ -183,6 +183,12 @@
     color: $grey-color;
 }
 
+.comment-meta {
+    font-size: $small-font-size;
+    color: $grey-color-dark;
+    letter-spacing: 0px;
+}
+
 .post-link {
     display: inline;
     font-size: 18px;

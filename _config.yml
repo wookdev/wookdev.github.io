@@ -24,3 +24,8 @@ defaults:
       path: "_posts"
     values:
       author: Wook
+      layout: post
+
+# Gems
+gems:
+  - jekyll-redirect-from

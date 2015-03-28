@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Everyday Magic: The Clothes Dryer"
+postid: 15
+tags:
+  - Everyday Magic
+  - Magic
+  - Dryer Lint
+---
+
+No matter what color clothes or towels I put in the dryer, the lint is always blue.

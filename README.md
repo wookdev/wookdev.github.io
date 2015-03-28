@@ -4,10 +4,10 @@ Currently munged.org is hosted at Squarespace, but I'm not entirely happy with i
 Hosting my site on GitHub has some implications that I find interesting
 to think about, about portability and accessibility.
 
-I'm new to version control, and am almost an actual programmer.  I once knew a couple
-of dead languages (COBOL, Pascal, Fortan, etc) from back when VAX/VMS was still
-a thing. Mostly what I know of them any more is that I can no longer can be functional
-in any of them without a lot of lead time.
+I'm new to version control.  I was once almost an actual programmer.  I knew a couple
+of now-dead languages (COBOL, Pascal, Fortan, etc) from back when DEC's VAX and VMS
+were still things. Mostly what I know of them any more is that I can no longer can be
+functional in any of them without a lot of lead time.
 
 I'm doing this project in GitHub partly to learn.  All help accepted, but I'll be happy if
 this repo and associated site are only ever seen by me.
