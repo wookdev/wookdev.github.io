@@ -34,7 +34,7 @@ The lines I need to add are:
 {% highlight yaml %}
 mtid: 1
 redirect_from:
-  - /saga/1.html
+    - /saga/1.html
 {% endhighlight %}
 
 Where '1' is going to be a record number from the Moveable Type system.  I have
