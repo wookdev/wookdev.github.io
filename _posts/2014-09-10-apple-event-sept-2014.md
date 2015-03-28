@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Apple Event on Sept 2014
-link: /ymmv/2014/9/10/apple-event-sept-2014
+permalink: /ymmv/2014/9/10/apple-event-sept-2014
 postname: 2014/9/10/apple-event-sept-2014
 postid: 17
 pubDate: Wed, 10 Sep 2014 05:18:57 +0000

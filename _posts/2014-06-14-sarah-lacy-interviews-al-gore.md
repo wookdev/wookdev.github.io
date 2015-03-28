@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sarah Lacy Interviews Al Gore
-link: /ymmv/2014/6/14/sarah-lacy-interviews-al-gore
+permalink: /ymmv/2014/6/14/sarah-lacy-interviews-al-gore
 postname: 2014/6/14/sarah-lacy-interviews-al-gore
 postid: 19
 pubDate: Sat, 14 Jun 2014 05:27:36 +0000

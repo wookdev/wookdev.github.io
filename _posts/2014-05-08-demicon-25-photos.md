@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DemiCon 25 Photos
-link: /ymmv/2014/5/8/demicon-25-photos
+permalink: /ymmv/2014/5/8/demicon-25-photos
 postname: 2014/5/8/demicon-25-photos
 postid: 21
 pubDate: Thu, 08 May 2014 16:40:06 +0000

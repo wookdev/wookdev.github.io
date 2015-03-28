@@ -6,63 +6,58 @@ datestr: Thursday, March 26th, 2015
 ---
 
 My blogging activities started shortly after the terrorist attacks of September 11th,
-2001 happened. [American Airlines flight 587
-crashed on takeoff from JFK][aa587].  I was in London for work that week, and
+2001 happened.  On November 12th American Airlines flight 587
+[crashed on takeoff from JFK][aa587].  I was in London for work that week, and
 my voicemail pretty quickly loaded up with family asking where I was and if I was
 okay.  I was, but I didn't have a mobile phone that worked in the UK, so I had no
 way to listen to them, or respond.
 
 I decided I needed a way to let my family know where I was, so they could have
 some idea of the chances of me being in some major catastrophe.  The US was kind
-of in the mindset at the time that catastrophes were something that we just going
-to be a fact of life from them on.
+of in the mindset at the time that catastrophes were something that were going
+to be a fact of life from then on.  Planning on and around them didn't seem like
+an odd thing to be doing.
 
 The sensible thing, looking back, would have been to use a shared calendar
 somewhere on the web, and give my family access.  I have no idea why
-that didn't seem like a good idea 13 years ago.  I vaguely remember rejecting
-the idea of using Yahoo's calendar.  I have no idea what I didn't like about
-it.
+that didn't seem like a good idea 13 years ago.
 
 Instead, I started posting on a website my comings, goings, and whereabouts, in
-a "web journal" format.  I wrote the first html pages by hand in vi.  After a while of
-doing that, I bought DreamWeaver, since it was _The Shit_ at that point.
+a "web journal" format. The site was static; I wrote the first html pages by hand
+using the vi text editor.
 
-These posts on this site now, start at that website, on November 21st, 2001.
-They haven't been on
-Munged.Org since sometime in 2009, when I stopped using the Movable Type content
-management system.
+After editing by hand for a while, I moved to using DreamWeaver.  The site was
+still static, but Dreamweaver allowed me to edit in WYSIWYG, and send the
+resulting files to the web server with the push of a button.
+Even that's a pain tho, so I moved from there to using [Moveable Type][].
+Munged.Org was based on MT until about 2009 or so.
 
-After the Movable Type period, there was a flitration with WordPress. But those
-blog posts are all gone.  WP stored everything in a database and generated the
-web pages dynamically as they were accessed.  When I stopped using WP, the database
-was gone.  I didn't download it, or lost the file.  There weren't many posts in WP,
-so there really isn't much missing.
+I joined Facebook in 2008, and started actually participating in 2009, and that
+killed any blogging I might have continued doing.
 
-After WordPress, I was going to try using DreamWeaver to do a site statically.
-I still had DreamWeaver, and had even been upgrading it over the years. The MT
-and WP sites had been hacked to serve pornography so often I was tired of them.
-A static web site is harder to hack, and the hacking is more noticeable when it
-happens.
+I hadn't been writing in the blog much anyway, because I was travelling so
+much.  My time all went to dealing with trying to live a life in hotels
+and airports.  But while the shiny lasted, FB was a lot of fun, and my friends
+turned out to be interesting, creative, hilarious, people.
 
-The static thing, basically never even made it to a web page.
+The idea of writing a blog wouldn't die tho.  Sometime since 2009, I set up a
+[WordPress][] blog on the same web server I'd had the
+Moveable Type blog on.  I didn't post much.  Those posts I did make are gone,
+because when I finally took that site down, it doesn't seem I managed to save
+anything.
 
-I tried Tumblr next. Useful, I guess. Never really did much with it.
+I also tried Tumblr for a while.  Again, not much went up there, and none of it
+saved when I stopped using it.
 
-Next in line was SquareSpace, where *[www.munged.org][]* is still as I write this.
-Square is nice, and it was really easy to create a good-looking site in almost
-no time at all. My complaints with Square are minor.  Because the focus is on
-pretty web sites, I can't find the minimalist, clean, look I'd prefer.  All the
-templates are way too much whitespace, around way to large pictures.  All the
-words show up halfway down the browser window, or lower.  The actual editing
-tools were okay, but everything was busy and distracting.
+I even upgraded DreamWeaver again at some point, and was going to do a static
+web site again.  I never got to the point of having it show up on the web.
 
-I haven't been posting much there either.  Partly for those reasons, but also
-because of Facebook.
+Last year, in April of 2014, to be precise, I created a web site with Squarespace.
+Munged.Org is there as I type this.  Hasn't been much going on over there, tho.
 
-All the witty stuff I'd been typing into the blog in days past went into FB instead.
-While being hacked was half the reason I stopped blogging, the other half was that
-FB was fulfilling my creative outlet.  I joined FB in 2008, and started really
-participating in it in 2009.  
+And now you are caught up.  Almost.
 
-[www.munged.org]: http://www.munged.org
-[aa587]:          https://en.wikipedia.org/wiki/American_Airlines_Flight_587
+[www.munged.org]:   http://www.munged.org
+[aa587]:            https://en.wikipedia.org/wiki/American_Airlines_Flight_587
+[Moveable Type]:    https://movabletype.com/
+[WordPress]:        https://wordpress.org/

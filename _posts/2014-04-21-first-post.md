@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /ymmv/2014/4/21/first-post
 title: First Post!
 postname: 2014/4/21/first-post
 pubDate: Tue, 22 Apr 2014 03:13:48 +0000

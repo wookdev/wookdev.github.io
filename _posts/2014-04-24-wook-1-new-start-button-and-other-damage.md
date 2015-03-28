@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Start Button and Other Damage
-link: /ymmv/2014/4/24/wook-1-new-start-button-and-other-damage
+permalink: /ymmv/2014/4/24/wook-1-new-start-button-and-other-damage
 postname: 2014/4/24/wook-1-new-start-button-and-other-damage
 postid: 35
 status: publish

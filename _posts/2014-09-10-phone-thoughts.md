@@ -1,12 +1,10 @@
 ---
 layout: post
 title: Phone Thoughts
-link: /ymmv/2014/9/10/phone-thoughts
+permalink: /ymmv/2014/9/10/phone-thoughts
 postname: 2014/9/10/phone-thoughts
 postid: 16
 pubDate: Wed, 10 Sep 2014 05:33:25 +0000
-postdate: 2014-09-10 05:33:25
-postdategmt: 2014-09-10 05:33:25
 tags:
   - new phone
   - iPhone 6 Plus

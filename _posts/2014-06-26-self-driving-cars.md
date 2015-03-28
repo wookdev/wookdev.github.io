@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Self-Driving Cars
-link: /ymmv/2014/6/26/self-driving-cars
+permalink: /ymmv/2014/6/26/self-driving-cars
 postname: 2014/6/26/self-driving-cars
 postid: 18
 pubDate: Wed, 10 Sep 2014 03:53:11 +0000
