@@ -26,11 +26,12 @@ Instead, I started posting on a website my comings, goings, and whereabouts, in
 a "web journal" format. The site was static; I wrote the first html pages by hand
 using the vi text editor.
 
-After editing by hand for a while, I moved to using DreamWeaver.  The site was
+After editing by hand for a while, I moved to using [Dreamweaver][].  The site was
 still static, but Dreamweaver allowed me to edit in WYSIWYG, and send the
 resulting files to the web server with the push of a button.
 Even that's a pain tho, so I moved from there to using [Moveable Type][].
-Munged.Org was based on MT until about 2009 or so.
+Munged.Org was based on MT until about 2009 or so.  I made almost 500 posts on
+that system before I joined [Facebook][].
 
 I joined Facebook in 2008, and started actually participating in 2009, and that
 killed any blogging I might have continued doing.
@@ -46,11 +47,11 @@ Moveable Type blog on.  I didn't post much.  Those posts I did make are gone,
 because when I finally took that site down, it doesn't seem I managed to save
 anything.
 
-I also tried Tumblr for a while.  Again, not much went up there, and none of it
+I also tried [Tumblr][] for a while.  Again, not much went up there, and none of it
 saved when I stopped using it.
 
-I even upgraded DreamWeaver again at some point, and was going to do a static
-web site again.  I never got to the point of having it show up on the web.
+I even upgraded [Dreamweaver][] again at some point, and was going to do a static
+web site again.  I never got that attempt to the point of having it show up on the web.
 
 Last year, in April of 2014, to be precise, I created a web site with Squarespace.
 Munged.Org is there as I type this.  Hasn't been much going on over there, tho.
@@ -61,3 +62,6 @@ And now you are caught up.  Almost.
 [aa587]:            https://en.wikipedia.org/wiki/American_Airlines_Flight_587
 [Moveable Type]:    https://movabletype.com/
 [WordPress]:        https://wordpress.org/
+[Tumblr]:           https://www.tumblr.com/
+[Dreamweaver]:      https://www.adobe.com/products/dreamweaver.html
+[Facebook]:         https://www.facebook.com
