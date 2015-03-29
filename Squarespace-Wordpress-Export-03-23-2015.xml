@@ -132,6 +132,7 @@
       <dc:creator>squarespace@munged.org</dc:creator>
       <wp:comment_status>closed</wp:comment_status>
     </item>
+<!--
     <item>
       <title>Disqus</title>
       <link>/ymmv/2014/11/3/disqus</link>
@@ -204,6 +205,7 @@
       <dc:creator>squarespace@munged.org</dc:creator>
       <wp:comment_status>closed</wp:comment_status>
     </item>
+-->
     <item>
       <title>Mirror Mystery</title>
       <link>/ymmv/2014/10/31/mirror-mystery</link>
@@ -222,6 +224,7 @@
       <dc:creator>squarespace@munged.org</dc:creator>
       <wp:comment_status>closed</wp:comment_status>
     </item>
+<!--
     <item>
       <title>(First) Flight Of The Phantom</title>
       <link>/ymmv/2014/9/14/first-flight-of-the-phantom</link>
@@ -249,6 +252,7 @@
         <wp:meta_value><![CDATA[14]]></wp:meta_value>
       </wp:postmeta>
     </item>
+-->
     <item>
       <wp:attachment_url>http://static1.squarespace.com/static/535094a2e4b0bf8f5524e59a/53509a1fe4b028029a01f562/5415d1c8e4b0c669adfe6fc1/1410719814188/#img.jpg</wp:attachment_url>
       <link>http://static1.squarespace.com/static/535094a2e4b0bf8f5524e59a/53509a1fe4b028029a01f562/5415d1c8e4b0c669adfe6fc1/1410719814188/#img.jpg</link>
@@ -342,8 +346,6 @@
       <dc:creator>squarespace@munged.org</dc:creator>
       <wp:comment_status>closed</wp:comment_status>
     </item>
--->
-<!--
     <item>
       <title>Sarah Lacy Interviews Al Gore</title>
       <link>/ymmv/2014/6/14/sarah-lacy-interviews-al-gore</link>
@@ -367,7 +369,6 @@
       <dc:creator>squarespace@munged.org</dc:creator>
       <wp:comment_status>closed</wp:comment_status>
     </item>
--->
     <item>
       <title>Porsche Boxster</title>
       <link>/ymmv/2014/5/16/porsche-boxster</link>
@@ -383,7 +384,6 @@
       <dc:creator>squarespace@munged.org</dc:creator>
       <wp:comment_status>closed</wp:comment_status>
     </item>
-<!--
     <item>
       <title>DemiCon 25 Photos</title>
       <link>/ymmv/2014/5/8/demicon-25-photos</link>
