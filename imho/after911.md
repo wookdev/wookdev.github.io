@@ -9,7 +9,7 @@ author: wook
 
 On Tuesday, September 11th, 2001, a day forever known simply
 as 9/11, highjackers flew airliners into New York City's World Trade Center.
-The &quot;Twin Towers&quot; have existed in the skyline since the late 60s;
+The "Twin Towers" have existed in the skyline since the late 60s;
 far longer than I have lived in this great city. After standing with gaping
 holes in their flanks, pouring forth smoke from intense fires caused by 60,000
 pounds of jet fuel , the towers finally collapsed upon themselves into a 10-story
@@ -26,7 +26,7 @@ and descriptions are posted everywhere. Most notable are the TV vans, some of
 which are parked around town, with not a square inch of paint showing between
 the missing-persons flyers taped to them. By now, there is a dreadful, but sure,
 knowledge that while a couple lucky souls might still be pulled from the wreckage
-that is &quot;Ground Zero&quot;, the list of the victims is probably written
+that is "Ground Zero", the list of the victims is probably written
 in the missing persons files.
 
 The show of support has been incredible. So many construction
@@ -62,10 +62,10 @@ look down the avenues of Manhattan and see only clear, blue, sky.
 Our search for the terrorists who perpetrated this act will cross
 all national boundaries. By committing an act so despicable, so huge in scope,
 America has been given permission to track down terrorism in all its forms no
-matter where it lives. No nation on earth dare tell us &quot;No&quot; when we
+matter where it lives. No nation on earth dare tell us "No" when we
 show up at the border in force. All nations will submit to an invasion of sorts,
-or find themselves actually invaded. The US is often called &quot;cops of the
-world&quot; in a derogatory tone of voice by the rest of the world. The world
+or find themselves actually invaded. The US is often called "cops of the
+world" in a derogatory tone of voice by the rest of the world. The world
 has seen nothing yet.
 
 My greatest hope is that we treat the nations we invade in the

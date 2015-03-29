@@ -40,7 +40,7 @@ Things I liked:
 1. His discussion about how our democracy has been "hacked" into not functioning
 as the founding fathers intended.
 1. Edward Snowden: Not a hero, broke the laws, but did us a huge service in exposing
-constitutional violations that probably make the NSA <strong>less</strong> effective
+constitutional violations that probably make the NSA **less** effective
 in doing its job.
 
 It is long, but I enjoyed the whole thing. Watch it here:

@@ -23,7 +23,7 @@ I should actually be able to get her phone thru the Web Store.
 
 Ally was already on Verizon, and I have switched to it. I have mixed feelings
 about this. It is really nice to be able to use my personal phone in my house.
-AT&amp;T didn't serve this area very well, and I had a lot of dropped calls.
+AT&T didn't serve this area very well, and I had a lot of dropped calls.
 My work mobile phone is on Verizon, because I had this same problem in DUMBO
 before I moved to the woods of Carrboro.
 
@@ -39,7 +39,7 @@ a lawsuit, which they lost.
 So. The ability to use my phone from home if I so choose. Or not supporting
 evil asshole corporations. Kind of an ugly choice.
 
-After a few years of shitty "service" on AT&amp;T's part, I am done. I am on
+After a few years of shitty "service" on AT&T's part, I am done. I am on
 Verizon. I could have gone with Sprint, but I had an iPad Air 2 that I returned,
 and had it on Sprint for a while, and didn't have good coverage from home with
 them either.

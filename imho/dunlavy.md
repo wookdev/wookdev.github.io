@@ -7,7 +7,7 @@ permalink: /imho/dunlavy.html
 I've always wanted a pair of Dunlavy speakers for my stereo.
 
 Actually, I've wanted them since I was in high school, when the
-company name was Duntech, and the speakers were called &quot;Odyssey 2001&quot;.
+company name was Duntech, and the speakers were called "Odyssey 2001".
 Built by a man by the name of Dunlavy, who is an expert at designing microwave
 antennas. He used his expertise in that to design the perfect stereo speakers.
 The Odyssey 2001 speakers had very impressive numbers. They were reported to
@@ -26,8 +26,8 @@ Jaime, and I spent an hour or two listening to the incredible Dunlavy Audio
 Labs, SC-IVa speakers. I was hooked.
 
 Time passed, other priorities were taken care of of. Dave purchased
-a pair of Dunlavy SC-III speakers. [Dave says: &quot;It was more like Jaime
-insisted and I went along for the ride (not that I'm complaining).&quot;
+a pair of Dunlavy SC-III speakers. [Dave says: "It was more like Jaime
+insisted and I went along for the ride (not that I'm complaining)."
 
 Then I received an email from Dave. In it, he told me that Dunlavy
 was out of business, and that AVL had some of the last speakers, and was negotiating
@@ -43,7 +43,7 @@ boxes. Two were the stands, in boxes the size of three pizza boxes stacked on
 top of each other. The other two boxes took up all available space in my living
 room. More than six and a half feet tall, and a foot by a foot and a half in
 cross-section, 200 pounds each shipping weight. I stood there looking at the
-boxes, feeling like one of the apes in &quot;[2001: A Space Odyssey][]&quot;,
+boxes, feeling like one of the apes in "[2001: A Space Odyssey][]",
 looking at the monolith.
 
 I called AVL, and got some advise from Denny on putting them
@@ -53,39 +53,39 @@ attaching the bases. Also, while I was on the phone with Denny, I ordered some
 speaker connects, because I realized the stuff I've been using is in very bad
 shape. Robert came over that afternoon, and helped me put them together and
 plug them in. We also had to move some things around a little, since these things
-kind of changed the landscape at the &quot;media&quot; end of my living room.
+kind of changed the landscape at the "media" end of my living room.
 
 Even with the crappy speaker cable, these speakers sound Really
 Good. I mean, REALLY GOOD. Amazing. So good, that Rob and I had a problem finding
 a CD in my collection that would truly do them justice. So much of pop music
 is recorded and mastered incredibly badly, even in this day and age of digital
 reproduction. We finally settled on old standards: Mannheim Steamroller's Fresh
-Aire IV, and 8, and the Holly Cole Trio's &quot;Don't Smoke In Bed&quot;.
+Aire IV, and 8, and the Holly Cole Trio's "Don't Smoke In Bed".
 
-&quot;Fresh Aire IV&quot; turned out to be disappointing. It
+"Fresh Aire IV" turned out to be disappointing. It
 was recorded 20 years ago or so, and at the time it was very well done. Chip
 Davis originally put his Fresh Air albums on LPs that were such high quality
-that you could tell them apart by how much heavier they were than a &quot;normal&quot;
+that you could tell them apart by how much heavier they were than a "normal"
 vinyl LP. On most of my previous stereos, the pipe organ on the beginning of
 this disk was the starting point for evaluating bass response.
 
-Now, &quot;Fresh Aire IV&quot; suffered, badly. There was little
+Now, "Fresh Aire IV" suffered, badly. There was little
 in the actual low end, though you could tell it was supposed to be there. The
 pipe organ was not what I was hoping it would be.
 
-So we moved on to &quot;Fresh Air 8&quot;. This is fairly recent,
+So we moved on to "Fresh Air 8". This is fairly recent,
 and very well recorded and mastered onto CD. It is a good test because it is
 orchestral, choral, and includes electronic instruments in with the ones nature
 came up with. It is a complex work, with lots of chances for the speakers to
 show their capabilities. It is probably the second best sounding thing I've
 got. It sounded fantastic. It had bass. It had treble. It had space. It had
-sound-stage. At no time did any part of the recording &quot;get lost&quot; in
+sound-stage. At no time did any part of the recording "get lost" in
 any other part. I've listened to this one about 8 time since that first evaluation
 with Rob.
 
 The Holly Cole Trio is a stand-up bass, a piano, and Holly Cole's
-incredible voice. The first track of &quot;Don't Smoke In Bed&quot; is &quot;I
-Can See Clearly Now&quot;. It starts with just the stand-up bass. On these speakers,
+incredible voice. The first track of "Don't Smoke In Bed" is "I
+Can See Clearly Now". It starts with just the stand-up bass. On these speakers,
 that bass is real. You can hear it resonate. You can hear the musician's fingers
 on the strings, and tell the difference in sounds when he is going fast, or
 has time to pluck the strings carefully. You can hear his hand slide along the
@@ -98,12 +98,12 @@ Rob commented that he'd always thought of their stuff as having been well record
 And once upon a time, it probably was.
 
 Since that first day, I've put a few other things in. Dave Matthews
-Band, &quot;Crash&quot; is well done. The guitar on &quot;So Much To Say&quot;
-is well recorded, and just enjoyable in general. And &quot;Proudest Monkey&quot;
+Band, "Crash" is well done. The guitar on "So Much To Say"
+is well recorded, and just enjoyable in general. And "Proudest Monkey"
 in addition to being a general favorite, just causes me to sit down and drift
 while I listen.
 
-While playing U2's &quot;Achtung Baby&quot; I found a bass nodal
+While playing U2's "Achtung Baby" I found a bass nodal
 point in my kitchen. This one has a lot of bass, presumably so even people without
 rhythm can dance to it. The spot is when standing right between the sink and
 stove. In that spot, the bass of this CD was flexing my stomach for me.
@@ -129,7 +129,7 @@ in my apartment now. This is new. My living room is highly reflective to sound,
 because there is very little dampening material. The bare walls and floor cause
 the highs to be somewhat shrill, and lows weren't reinforced at all by the room.
 The Energy 2.1e setup was never able to overcome this. Music always sounded
-overly bright and devoid of anything resembling &quot;bottom&quot;. So I would
+overly bright and devoid of anything resembling "bottom". So I would
 put in music and then wander away from it.
 
 During my copious free time (ha!), I've been stuck in my love
