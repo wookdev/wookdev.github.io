@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Wook
-title: "I'm sooooooooooo adicted to Cities: Skylines"
+title: "I'm sooooooooooo addicted to Cities: Skylines"
 ---
 
 I'd planned on a semi-serious attempt to put all the [DemiCon][] and related photo galleries
