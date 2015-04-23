@@ -1,6 +1,6 @@
 # Munged.Org Source for GitHub Pages Site
 
-Currently munged.org is hosted at Squarespace, but I'm not entirely happy with it.
+http://www.munged.org was hosted at Squarespace, but I wasn't entirely happy with it.
 Hosting my site on GitHub has some implications that I find interesting
 to think about, about portability and accessibility.
 
