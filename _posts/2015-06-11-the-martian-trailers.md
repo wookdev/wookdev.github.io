@@ -15,7 +15,7 @@ potty-mouthed,
 smart-assed, good-natured, optimist who refuses to give up. The science is as hard as it
 gets, and is actually exciting at times, when things blow up, roll over, or pop.
 
-Anb now it is being turned into [a movie][The Martian Movie].
+And now it is being turned into [a movie][The Martian Movie].
 
 I am **very** skeptical this movie would, or could, be faithful to the book.  Which
 is a shame.  But the first non-teaser trailer came out this weekend, and I recognize
@@ -43,6 +43,11 @@ he's doing, the sense of wonder and amazement is better communicated by Mindy, V
 and the rest.
 
 - Real Chicagoans do not to to Geno's for pizza.  It's a tourist trap.
+
+- Chiwetel Ejiofor, a Brit of Nigerian decent, was cast as Venkat Kapoor, an Indian.
+In my mind, while reading, Venkat sounded to me like a US native of Indian decent.  We
+never really get this verified, tho at one point Venkat does say he's Hindu.  Still,
+this casting choice seems odd to me.
 
 Anyway.  Here's hoping.  Movies have been scarce and have mostly sucked, the last
 two years.
