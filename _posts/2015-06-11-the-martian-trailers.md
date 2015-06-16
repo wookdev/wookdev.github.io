@@ -1,13 +1,13 @@
 ---
 layout: post
-title: The Martian Movie Trailers
+title: "The Martian" Movie Trailers
 author: Wook
 tags:
  - Books
  - Movies
  - Reviews
 ---
-[The Martian][], a book by [Andy Weir][] about an astronaut, Mark Watney, stranded on
+"[The Martian][]", a book by [Andy Weir][] about an astronaut, Mark Watney, stranded on
 the planet mars when his crewmates leave him for dead in an abort due to a savage sandstorm.
 
 I enjoyed this novel a lot.  Weir makes Watney an entertaining character.  He's a
