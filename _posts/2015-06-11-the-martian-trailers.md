@@ -22,9 +22,13 @@ is a shame.  But the first non-teaser trailer came out this weekend, and I recog
 almost everything in it as being in the book.  So maybe, just maybe, this movie will
 be good.  Maybe great.
 
-The trailer:
+The teaser trailer:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2p7bgMxewxA" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ue4PCI0NamI" frameborder="0" allowfullscreen></iframe>
+
+The official trailer:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ej3ioOneTy8" frameborder="0" allowfullscreen></iframe>
 
 And another "First Look" thing:
 
