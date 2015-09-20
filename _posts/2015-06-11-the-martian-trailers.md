@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Martian" Movie Trailers
+title: The Martian
 author: Wook
 tags:
  - Books
@@ -55,6 +55,8 @@ this casting choice seems odd to me.
 
 Anyway.  Here's hoping.  Movies have been scarce and have mostly sucked, the last
 two years.
+
+Updated: Changed videos to new "official" trailers.
 
 
 [The Martian]:  https://en.wikipedia.org/wiki/The_Martian_%28Weir_novel%29
