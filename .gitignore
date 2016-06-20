@@ -3,3 +3,5 @@ _site
 *.plist
 .DS_Store
 .jekyll-metadata
+.idea
+
