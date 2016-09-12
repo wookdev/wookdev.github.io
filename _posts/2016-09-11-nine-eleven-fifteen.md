@@ -2,10 +2,10 @@
 layout: post
 title: Fifteen Years Later
 author: Wook
-date: 2016-09-12 00:01:00 -0500
+date: 2016-09-11
 tags: 
-  - 911
-  - memorials
+ - 911
+ - memorials
 ---
 
 I hope everyone takes a moment today to remember that something horrible happened

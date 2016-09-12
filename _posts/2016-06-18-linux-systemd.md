@@ -4,6 +4,7 @@ title: systemd
 author: Wook
 date: 2016-06-18 13:06:00 -0500
 ---
+
 I've been working with CentOS and RHEL 7 lately, and had to get into
 using systemd and systemctl instead of the "service" command and the 
 init.d system.
