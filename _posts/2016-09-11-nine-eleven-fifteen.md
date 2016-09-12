@@ -7,7 +7,6 @@ tags:
  - 911
  - memorials
 ---
-
 I hope everyone takes a moment today to remember that something horrible happened
 15 years ago.  People died in two cities and a remote farm field.
  

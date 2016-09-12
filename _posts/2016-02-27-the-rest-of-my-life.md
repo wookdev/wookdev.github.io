@@ -8,7 +8,6 @@ tags:
   - Weight
   - The Plan
 ---
-
 I've been "on a diet" now for about 8 years.  I've lost zero pounds in
 that time.
 
