@@ -1,54 +1,73 @@
 ---
 layout: post
-title: Raid Set 1 Degraded
+title: Bay 2 Predicted Failure
 author: Wook
-date: 2017-05-10
+date: 2017-05-25
 tags: 
  - Computers
 ---
 
-My MacPro has an Apple raid card in it, because I hate having 4 separate disk drives
-in a computer.  The raid card makes 4 drives look like one big one.  The card also
-protects when one drive fails.  Which seems to be what happened just now:
+As [reported previously][], there was some excitement two weeks ago when a disk
+drive that's part of the raid cluster in my main computer just vanished under
+load.  The raid card did it's thing, and the computer continued to function.
+I rebooted, and the disk showed up again, I made it a spare, the raid card grabbed
+it for the raid set, and started rebuilding.
 
-![events](/pics/raid-events.png)
+All good.
 
-The drive in Bay 2 just vanished while in use.  Because I have raid 5, the computer
-is still functional, and I have access to all my data.  But access will be slow, as
-the raid card has to calculate what was on the missing drive from info on the 3 still
-working.  Also, if one more drive fails, I lose the whole machine.
+But then the following Monday, the power blipped. The computer is on a UPS and was
+still on when I sat down at my desk, but the MacPro had a blank, black, screen,
+and a mouse cursor, and nothing else.  Nothing worked to break it loose of that,
+so I power cycled it.
 
-The problem might just have been utilization.  I had a Win10 VM cleaning up its disk space,
-Lightroom loading a large, 17,000+ photo catalog, iTunes playing, iDrive downloading
-a few gigabytes of photos.  Disturbingly, the VM and Lightroom seemed to hang, which
-is not supposed to happen on a raid protected system when a disk fails.
+Aaaaaaaaaaand, it wouldn't boot.  It would give the startup chord, and then just a
+white screen.
 
-This computer is a "Mid 2010" MacPro, purchased in early 2011.  It's kind of amazing
-that this 6-year-old computer and its equally old spinning hard drives haven't thrown
-so much as a hiccup before now.  In my experience, hard drives last 3 years.
+If I pulled the raid card, it would boot up on a USB stick.  I could then see all
+4 disk drives, but they weren't usable because they were raid disks.
 
-There are 3 possibilities, as I see it:
+After buying a replacement disk drive for bay 2 that showed up DOA, and another
+raid card that is still in the machine as I'm typing this, I determined it wasn't
+the raid card.
 
-1. The bay 2 drive is really failing.
-1. Drives are getting old, just too much work for too long, could have happened
-to any of the 4 drives in the machine.
-1. Power supply weakness, could have been kernel panic just as much as hard drive
-failure.
+Somehow, the raid set was borked.  The Teeming Millions general opinion of the
+Apple Raid Card is pretty low, but I figured it's whole reason to exist was to
+not let the whole raid set get borked, no matter what happened.  Naive, I know.
 
-Powering down and powering up the machine brought the drive back.  I made it a
-spare, and the raid card slurped it into the raid set and is now rebuilding.
+What fixed it was this:
 
-![rebuild](/pics/raid-rebuild.png)
+- Pull raid card again
+- Boot from USB stick with MacOS Installer on it
+- Start disk util
+- Erase all 4 now non-raid disks
+- Put raid card back in
+- Boot from USB stick with MacOS Installer on it
+- Use disk util to get to raid util, and re-create the raid set
+- Install MacOS Sierra on raid set
+- Restore from Time Machine backup
 
-I expect that to take a day or two, if I remember correctly from when
-I first set it up 6 years ago.
+This all worked.  Restoring from a [Time Machine][] backup is about as painless
+as a backup could ever be.  I lost all my virtual machines, because they're just
+too large and too active to back up to TM, but that's okay.  The [Ansible][] setup
+I use to create them was backed up.
 
-I have a plan to replace all the spinning drives with SSDs, but that plan really
-can't happen now.  I can buy a replacement hard drive of the same model number for
-about $60, and that'll be an option if the rebuild doesn't finish.  Might need to
-do it anyway, since drives in a raid array like this tend to crap out all at the
-same time.
+But of course, bay 2 dropped out again during the rebuild three days ago.
+This time, the
+raid card notified me, and the machine is still running.  I have 2 more Hitachi
+disks coming, hopefully one of them will be good, and I'll replace bay 2.  I'm
+going to run on the 3 remaining good disks until they arrive.
 
-I might order one Hitachi HDS722020ALA330, and if it works with the raid card (it
-might not, this raid card is the worse one ever made and might be really picky)
-I'll get 3 more and replace them all one at a time.  Maybe.
+But today I had to reboot it.  The disk drive showed up again, as "roaming",
+which just means it isn't a part of the raid set.  I expected this.  What I
+didn't expect was the computer informing me that the disk in Bay 2 is about
+to fail.
+
+![events](/pics/predicted-failure.png)
+
+I spent a solid two minutes looking at that thinking "No shit, you couldn't
+come up with this **two weeks ago**?  What the hell!"
+
+
+[reported previously]: {{ site.baseurl }}{% post_url 2017-05-10-RS1-degraded %}
+[Ansible]: https://docs.ansible.com/ansible/
+[Time Machine]: https://en.wikipedia.org/wiki/Time_Machine_(macOS)
