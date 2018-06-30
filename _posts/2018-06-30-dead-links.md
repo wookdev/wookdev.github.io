@@ -2,7 +2,7 @@
 title: Dead Links
 layout: post
 author: Wook
-date: 2018-06-30 00:00:00 +0000
+date: 2018-06-30 13:10:28 -0400
 tags:
 - Site
 - Meta
