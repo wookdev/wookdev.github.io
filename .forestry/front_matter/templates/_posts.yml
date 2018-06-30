@@ -13,4 +13,4 @@ fields:
   hidden: false
   default: post
 pages:
-- _posts/trying-a-headless-cms.md
+- _posts/2018-06-30-trying-a-headless-cms.md
