@@ -27,3 +27,5 @@ fields:
   type: datetime
   hidden: false
   default: ''
+pages:
+- _posts/dead-links.md
