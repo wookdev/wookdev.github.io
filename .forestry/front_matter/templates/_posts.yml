@@ -1,0 +1,14 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- name: author
+  label: Author
+  type: text
+  hidden: false
+  default: Wook
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: post
