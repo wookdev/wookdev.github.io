@@ -6,7 +6,7 @@ fields:
   label: Layout
   type: text
   hidden: false
-  default: ''
+  default: post
 - name: title
   label: Title
   type: text
@@ -16,14 +16,14 @@ fields:
   label: Author
   type: text
   hidden: false
+  default: Wook
+- name: tags
+  label: Tags
+  type: tag_list
+  hidden: false
   default: ''
 - name: date
   label: Date
   type: datetime
-  hidden: false
-  default: ''
-- name: tags
-  label: Tags
-  type: tag_list
   hidden: false
   default: ''
