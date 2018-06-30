@@ -28,4 +28,5 @@ fields:
   hidden: false
   default: ''
 pages:
+- _posts/2018-06-30-trying-a-headless-cms.md
 - _posts/2018-06-30-dead-links.md
