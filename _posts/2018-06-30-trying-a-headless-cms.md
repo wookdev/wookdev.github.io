@@ -26,6 +26,8 @@ I guess Github Pages should have been the first clue, here.  Github it not a sma
 
 In the article, it mentioned this new concept of "headless CMS".  Basically, a content management system that didn't actually serve the resulting pages.
 
-And thus, we come to Forestry.io.  It costs the same amount as Pages does for a single contributor like me.  Free.  And it should do everything I need.
+And thus, we come to [Forestry.io](https://forestry.io/ "forestry.io").  It costs the same amount as Pages does for a single contributor like me.  Free.  And it should do everything I need.
 
 It won't do the cryptographic signature I was using.  But really, there's little reason for me to have that.  I'm not a researcher.  My ramblings are for me only.  Nobody will take any of this seriously enough that if the site gets hacked I'm going to start a war or something.  I can still back up the site to my local machine at Wook Central by a single git pull command.
+
+Will I post more using this method.  We'll see.
