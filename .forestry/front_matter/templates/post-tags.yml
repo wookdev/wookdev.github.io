@@ -27,5 +27,3 @@ fields:
   type: datetime
   hidden: false
   default: ''
-pages:
-- _posts/something-really-messes-me-up.md
