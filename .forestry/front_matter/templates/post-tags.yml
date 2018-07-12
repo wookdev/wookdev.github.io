@@ -1,4 +1,5 @@
 ---
+label: Post Tags
 hide_body: false
 is_partial: false
 fields:
@@ -28,5 +29,6 @@ fields:
   hidden: false
   default: ''
 pages:
-- _posts/2018-06-30-dead-links.md
+- comparing-street-orientation.md
 - _posts/2018-06-30-trying-a-headless-cms.md
+- _posts/2018-06-30-dead-links.md
