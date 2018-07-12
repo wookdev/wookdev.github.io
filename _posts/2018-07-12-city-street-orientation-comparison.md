@@ -13,3 +13,5 @@ Links
 
 * [Comparing City Street Orientations](http://geoffboeing.com/2018/07/comparing-city-street-orientations/)
 * [City Street Orientations around the World](http://geoffboeing.com/2018/07/city-street-orientations-world/)
+
+Discovered via: [Slashdot](https://news.slashdot.org/story/18/07/12/1039255/a-look-at-street-network-orientation-in-major-us-cities "A Look at Street Network Orientation in Major US Cities")
