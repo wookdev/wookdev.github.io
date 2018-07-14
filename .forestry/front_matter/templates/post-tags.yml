@@ -29,6 +29,7 @@ fields:
   hidden: false
   default: ''
 pages:
-- _posts/2018-06-30-trying-a-headless-cms.md
-- _posts/2018-06-30-dead-links.md
 - _posts/2018-07-12-city-street-orientation-comparison.md
+- _posts/2018-06-30-dead-links.md
+- _posts/comments.md
+- _posts/2018-06-30-trying-a-headless-cms.md
