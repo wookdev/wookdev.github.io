@@ -29,6 +29,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _posts/north-carolina-gets-f-ed.md
 - name-of-my-new-band.md
 - _posts/2018-07-29-movie-review-blockers.md
 - _posts/2018-06-30-dead-links.md
