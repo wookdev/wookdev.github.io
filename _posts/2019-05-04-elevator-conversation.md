@@ -15,4 +15,4 @@ Me: I'm doing good.
 
 Them: You're very tall.
 
-Me: Yes, I am.  But I usually don't lead with that when I'm asked how I'm doing because I think it's rather relative.
+Me: Yes, I am.  But I usually don't lead with that when I'm asked how I'm doing because I think it's obvious.
