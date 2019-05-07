@@ -4,6 +4,7 @@ author: Wook
 title: Rainbows
 tags:
 - Nature
+- Photo
 date: 2019-05-06 20:00:00 -0400
 
 ---
