@@ -1,7 +1,6 @@
 ---
 label: _posts
 hide_body: false
-is_partial: false
 fields:
 - name: author
   label: Author
