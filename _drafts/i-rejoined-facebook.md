@@ -8,9 +8,9 @@ date: 2020-03-25 00:00:00 -0400
 ---
 In These Times, I felt is was important to keep in touch with as many of my loved ones as possible.  Normally, I would wait for our times together to come around naturally thru our collective wanderings.  But during These Times, I didn't want to wait, and take the chance of not being able to connect with someone again.
 
-So, uh....
+So, uh....  Facebook.
 
-Facebook.  I left facebook a little over [two years ago](http://www.munged.org/2017/11/10/deleted-fb/ "Left Facebook").
+I left facebook a little over [two years ago](http://www.munged.org/2017/11/10/deleted-fb/ "Left Facebook").
 
 Nothing has changed in my opinion of Facebook.  I've been back for a few hours so far, and I'm already done with it.  It's not that I don't like the people I've friended, I do like them all.  But not everyone can put together an engaging, entertaining online presence.  (Yes, I'm probably throwing stones.)
 
