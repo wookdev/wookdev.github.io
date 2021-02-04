@@ -12,5 +12,3 @@ fields:
   type: text
   hidden: false
   default: post
-pages:
-- _posts/2020-09-30-13.md
