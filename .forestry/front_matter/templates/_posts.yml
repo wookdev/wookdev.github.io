@@ -12,3 +12,6 @@ fields:
   type: text
   hidden: false
   default: post
+pages:
+- _posts/2020-03-31-wow-snow-again.md
+- _posts/2020-05-10-a-random-day-in-may.md
